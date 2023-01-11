@@ -37,5 +37,5 @@ Workflow in `main.R`:
 - `“dot_bracket_notation_aligner.R"` - Align microRNAs hairpin dot-bracket notation
 - `"MirGeneDB_criteria_checker.R"` - Check for MirGeneDB "Unique structural features of microRNAs"
 
-###
+##
 - `test` - Include test case input and expected output
