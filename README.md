@@ -25,6 +25,7 @@ Workflow in `main.R`:
 7.	Check for MirGeneDB "Unique structural features of microRNAs"
   - `"MirGeneDB_criteria_checker.R"`
 
+
 Known limitations:
 1.	Alignment does not work if there are more than one loop found in miRNA sequences (will skip intentionally) (e.g. Tco_Scaffold_6695_20322, Hho_SczTNLB_6657_30897) 
 2.	Does not check for Rule 2 of MirGeneDB "Unique structural features of microRNAs"
