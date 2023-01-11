@@ -30,8 +30,8 @@ Known limitations:
 
 
 ## script
-- `"mirdeep2_pdf_to_txt.R”` - Convert mirdeep2 results (pdf files) into txt files
-- `"dot_bracket_notation_scrapper.R"` - Scrap dot-bracket notation from txt files
+- `"mirdeep2_pdf_to_txt.R”` - Convert mirdeep2 results (.pdf) into .txt files
+- `"dot_bracket_notation_scrapper.R"` - Scrap dot-bracket notation from .txt files
 - `"dot_bracket_notation_seq_mapper.R"` - Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
 - `“dot_bracket_notation_aligner.R"` - Align microRNAs hairpin dot-bracket notation
 - `"MirGeneDB_criteria_checker.R"` - Check for MirGeneDB "Unique structural features of microRNAs"
