@@ -24,7 +24,7 @@ for (i in pdf_file_list) {
   mirdeep2_pdf_to_txt(pdf_file = i, output_dir = TXT_FILE_DIR)
 }
 
-# 3. Scrap dot-bracket notation from txt files
+# 3. Scrap dot-bracket notation from .txt files
 # return a vector of three elements ("mirna_id", "dot_bracket_notation" and "mirna_seq"), and merging them into a dataframe
 source("dot_bracket_notation_scrapper.R")
 dot_bracket_df <- data.frame()
