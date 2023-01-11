@@ -1,4 +1,4 @@
-#' @title Dot-bracket notation from mirdeep2 results txt files scrapper
+#' @title Dot-bracket notation from mirdeep2 results xtxt files scrapper
 #' @description Read and scrap microRNAs dot-bracket notation 
 #' from mirdeep2 results txt files (converted from .pdf using "mirdeep2_pdf_to_txt.R").
 #' @param txt_file string; txt file to be scrapped. Obtained after converting  mirdeep2 results (pdf files) into txt files ("mirdeep2_pdf_to_txt.R")
