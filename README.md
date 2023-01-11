@@ -15,7 +15,7 @@ Workflow in `main.R`:
 4.	Merge mirdeep2 result (.xlsx) and dot-bracket notation into one dataframe
 5.	Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
   - `"dot_bracket_notation_seq_mapper.R"`
-6.	Align microRNAs hairpin dot-bracket notation
+6.	Align microRNAs hairpin dot-bracket notation. Optional: map miRNA sequence to dot-bracket notation.
   - `“dot_bracket_notation_aligner.R"`
   - To view miRNA dot-bracket notation structure, open the csv, set font to monospaced typefaces (e.g. Consolas)
     - For example, for Tco_Scaffold_1043_1001
