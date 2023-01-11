@@ -7,15 +7,15 @@ Require packages: `pdftools`, `stringr`, `stringi`
 Workflow:
 1.	Initialize environment parameters
 2.	Convert mirdeep2 results (pdf files) into txt files
-a.	`"mirdeep2_pdf_to_txt.R”`
+  - `"mirdeep2_pdf_to_txt.R”`
 3.	Scrap dot-bracket notation from txt files
-a.	`"dot_bracket_notation_scrapper.R"`
+  - `"dot_bracket_notation_scrapper.R"`
 4.	Merge mirdeep2 result (.xlsx) and dot-bracket notation into one dataframe
 5.	Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
-a.	`"dot_bracket_notation_seq_mapper.R"`
+  - `"dot_bracket_notation_seq_mapper.R"`
 6.	Align microRNAs hairpin dot-bracket notation
-a.	`“dot_bracket_notation_aligner.R"`
-b.	To view miRNA dot-bracket notation structure, open the csv, set font to monospaced typefaces (e.g. Consolas)
+  - `“dot_bracket_notation_aligner.R"`
+  - To view miRNA dot-bracket notation structure, open the csv, set font to monospaced typefaces (e.g. Consolas)
 7.	Check for MirGeneDB "Unique structural features of microRNAs"
 a.	`"MirGeneDB_criteria_checker.R"`
 
