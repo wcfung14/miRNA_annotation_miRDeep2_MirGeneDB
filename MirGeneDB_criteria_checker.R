@@ -44,7 +44,7 @@ check_MirGeneDB_criteria <- function(mirdeep2_res_db_seq_structure) {
     mirgenedb_rule_4_5end_offsetNumber[i] <- 
       min(unlist(gregexpr(pattern = "[A-Z]", mirdeep2_res_db_seq_structure$top_strand_align_seq[i]))) - min(unlist(gregexpr(pattern = "[A-Z]", mirdeep2_res_db_seq_structure$bottom_strand_align_seq[i])))
       
-    # 3' end = maximum position of mature/star seq in bottom_strand_align_seq - maximum position of mature/star seq in top_strand_align_seq
+    # 3' end = maximum position of mature/star seq in top_strand_align_seq - maximum position of mature/star seq in bottom_strand_align_seq
     mirgenedb_rule_4_3end_offsetNumber[i] <-
       max(unlist(gregexpr(pattern = "[A-Z]", mirdeep2_res_db_seq_structure$top_strand_align_seq[i]))) - max(unlist(gregexpr(pattern = "[A-Z]", mirdeep2_res_db_seq_structure$bottom_strand_align_seq[i])))
     
@@ -52,8 +52,8 @@ check_MirGeneDB_criteria <- function(mirdeep2_res_db_seq_structure) {
     mirgenedb_rule_4_3end_nt[i] <-
       substr(mirdeep2_res_db_seq_structure$bottom_strand_align_seq[i], start = 1, stop = 1)
   }
-  mirgenedb_rule_4_2nt_5end_2ntOffset <- abs(as.numeric(mirgenedb_rule_4_5end_offsetNumber)) >= 2
-  mirgenedb_rule_4_2nt_3end_2ntOffset <- abs(as.numeric(mirgenedb_rule_4_3end_offsetNumber)) >= 2
+  mirgenedb_rule_4_2nt_5end_2ntOffset <- as.numeric(mirgenedb_rule_4_5end_offsetNumber) >= 2
+  mirgenedb_rule_4_2nt_3end_2ntOffset <- as.numeric(mirgenedb_rule_4_3end_offsetNumber) >= 2
   mirgenedb_rule_4_2nt_3end_isU <- tolower(mirgenedb_rule_4_3end_nt) %in% "u"
   
   mirgenedb_rule_4_2ntOffset_3endisU <- (mirgenedb_rule_4_2nt_5end_2ntOffset & mirgenedb_rule_4_2nt_3end_2ntOffset) | mirgenedb_rule_4_2nt_3end_isU
