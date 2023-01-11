@@ -64,7 +64,7 @@ for (i in 1:nrow(mirdeep2_res_db)) {
 mirdeep2_res_db_seq <- merge(mirdeep2_res_db, mirna_map_df, by.x="provisional.id", by.y="mirna_id", all.x = TRUE)
 write.csv(mirdeep2_res_db_seq, paste0(MIRDEEP2_RESULT_PATH, "_db_seq.csv"), row.names = FALSE)
 
-# 6. Align microRNAs hairpin dot-bracket notation, map miRNA sequence to dot-bracket notation.
+# 6. Align microRNAs hairpin dot-bracket notation. Optional but needed for MirGeneDB check: map miRNA sequence to dot-bracket notation.
 # return a dataframe of 8 columns of miRNA hairpin structure information: ("top_strand_align", "strand_match", "bottom_strand_align", "hairpin_structure_db", "Remarks", "bottom_strand_align_seq", "hairpin_structure_seq")
 source("dot_bracket_notation_aligner.R")
 hairpin_structure_df <- data.frame()
