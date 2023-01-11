@@ -18,7 +18,7 @@ Workflow in `main.R`:
 6.	Align microRNAs hairpin dot-bracket notation. Optional but needed for MirGeneDB check: map miRNA sequence to dot-bracket notation.
   - `“dot_bracket_notation_aligner.R"`
   - To view miRNA dot-bracket notation structure, open the csv, set font to monospaced typefaces (e.g. Consolas)
-  - UPPER case indicates mature/star sequences
+  - UPPER case in `hairpin_structure_seq` indicates mature/star sequences
     - For example, for Tco_Scaffold_1043_1001
     - ![Tco_Scaffold_1043_1001_hairpin_structure_db](https://user-images.githubusercontent.com/44503876/211840241-d91aefe4-a8dd-4ef9-bf0b-dff8b4ba395d.png)
 
