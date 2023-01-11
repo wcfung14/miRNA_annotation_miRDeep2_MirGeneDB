@@ -10,7 +10,7 @@
 
   # 1. Initialize environment parameters
 {
-  PARENT_DIR <- file.path(paste0("C:/Users/", Sys.info()[["user"]], "/Desktop/R/MirGeneDB_criteria_checker"))
+  PARENT_DIR <- file.path(paste0("C:/Users/", Sys.info()[["user"]], "/Desktop/R/miRNA_annotation_miRDeep2_MirGeneDB"))
   setwd(PARENT_DIR)
   PDF_FILE_DIR = file.path(PARENT_DIR, "test/mirdeep2_pdf")
   TXT_FILE_DIR = file.path(PARENT_DIR, "test/mirdeep2_txt")
