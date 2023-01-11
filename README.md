@@ -16,6 +16,9 @@ Workflow in `main.R`:
 6.	Align microRNAs hairpin dot-bracket notation
   - `“dot_bracket_notation_aligner.R"`
   - To view miRNA dot-bracket notation structure, open the csv, set font to monospaced typefaces (e.g. Consolas)
+    - For example, for Tco_Scaffold_1043_1001
+    <img width="468" alt="image" src="https://user-images.githubusercontent.com/44503876/211728435-7d7f860b-6fb8-43d8-8d78-5c6ae112420f.png">
+
 7.	Check for MirGeneDB "Unique structural features of microRNAs"
   - `"MirGeneDB_criteria_checker.R"`
 
