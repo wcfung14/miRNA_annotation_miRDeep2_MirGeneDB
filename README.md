@@ -17,7 +17,7 @@ Workflow:
   - `“dot_bracket_notation_aligner.R"`
   - To view miRNA dot-bracket notation structure, open the csv, set font to monospaced typefaces (e.g. Consolas)
 7.	Check for MirGeneDB "Unique structural features of microRNAs"
-a.	`"MirGeneDB_criteria_checker.R"`
+  - `"MirGeneDB_criteria_checker.R"`
 
 Known limitations:
 1.	Alignment does not work if there are more than one loop found in miRNA sequences (will skip intentionally) (e.g. Tco_Scaffold_6695_20322, Hho_SczTNLB_6657_30897) 
