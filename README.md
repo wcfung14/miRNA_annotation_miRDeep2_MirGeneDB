@@ -37,4 +37,4 @@ Known limitations:
 - `"MirGeneDB_criteria_checker.R"` - Check for MirGeneDB "Unique structural features of microRNAs"
 
 ##
-- `test` - include test case input and expected output
+- `test` - Include test case input and expected output
