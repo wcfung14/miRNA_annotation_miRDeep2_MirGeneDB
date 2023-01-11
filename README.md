@@ -32,3 +32,5 @@ Known limitations:
 - `"dot_bracket_notation_seq_mapper.R"` - Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
 - `“dot_bracket_notation_aligner.R"` - Align microRNAs hairpin dot-bracket notation
 - `"MirGeneDB_criteria_checker.R"` - Check for MirGeneDB "Unique structural features of microRNAs"
+
+- `test.rar` - include test case input and expected output
