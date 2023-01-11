@@ -2,7 +2,7 @@
 Analyze microRNAs prediction by miRDeep2 and check the predictions by MirGeneDB criteria for miRNAs annotation. 
 
 Workflow: parsing mirdeep2 results, taking miRNA dot-bracket notations, mapping to miRNA sequences and obtain miRNA structure and hairpin information, make miRNA hairpins by aligning top and bottom strand, and checking for MirGeneDB "Unique structural features of microRNAs".
-# Require packages: pdftools, stringr, stringi
+Require packages: pdftools, stringr, stringi
 
 Workflow:
 1.	Initialize environment parameters
