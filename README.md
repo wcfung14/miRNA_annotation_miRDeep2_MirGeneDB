@@ -8,7 +8,7 @@ Workflow in `main.R`:
 1.	Initialize environment parameters
 2.	Convert mirdeep2 results (.pdf) into .txt files
   - `"mirdeep2_pdf_to_txt.R”`
-3.	Scrap dot-bracket notation from txt files
+3.	Scrap dot-bracket notation from .txt files
   - `"dot_bracket_notation_scrapper.R"`
 4.	Merge mirdeep2 result (.xlsx) and dot-bracket notation into one dataframe
 5.	Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
