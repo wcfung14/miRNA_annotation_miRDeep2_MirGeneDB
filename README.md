@@ -6,24 +6,19 @@ Require packages: `pdftools`, `stringr`, `stringi`
 
 Workflow in `main.R`:
 1.	Initialize environment parameters
-2.	Convert mirdeep2 results (.pdf) into .txt files
-  - `"mirdeep2_pdf_to_txt.R”`
-3.	Scrap dot-bracket notation from .txt files
-  - `"dot_bracket_notation_scrapper.R"`
+2.	`"mirdeep2_pdf_to_txt.R”` - Convert mirdeep2 results (.pdf) into .txt files 
+3.	`"dot_bracket_notation_scrapper.R"` - Scrap dot-bracket notation from .txt files
   - dot-bracket notation example: Tco_Scaffold_1043_1001
   >`"..(((((.....((((....))))......((((.(((((((.(((((.((((.(((((......).))))))))))))).))))))).))))..)))))........"`
 4.	Merge mirdeep2 result (.xlsx) and dot-bracket notation into one dataframe
-5.	Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
-  - `"dot_bracket_notation_seq_mapper.R"`
-6.	Align microRNAs hairpin dot-bracket notation. Optional but needed for MirGeneDB check: map miRNA sequence to dot-bracket notation.
-  - `“dot_bracket_notation_aligner.R"`
-  - To view miRNA dot-bracket notation structure, open the csv, set font to monospaced typefaces (e.g. Consolas)
+5.	`"dot_bracket_notation_seq_mapper.R"` - Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
+6.	`“dot_bracket_notation_aligner.R"` - Align microRNAs hairpin dot-bracket notation. Optional but needed for MirGeneDB check: map miRNA sequence to dot-bracket notation.
+  - To view miRNA dot-bracket notation structure (`hairpin_structure_db`), open the csv, set font to monospaced typefaces (e.g. Consolas)
   - UPPER case in `hairpin_structure_seq` indicates mature/star sequences
     - For example, for Tco_Scaffold_1043_1001
     - ![Tco_Scaffold_1043_1001_hairpin_structure_db](https://user-images.githubusercontent.com/44503876/211840241-d91aefe4-a8dd-4ef9-bf0b-dff8b4ba395d.png)
 
-7.	Check for MirGeneDB "Unique structural features of microRNAs"
-  - `"MirGeneDB_criteria_checker.R"`
+7.	`"MirGeneDB_criteria_checker.R"` - Check for MirGeneDB "Unique structural features of microRNAs"
 ![Annotation_Criteria_Tco_Scaffold_1043_2834](https://user-images.githubusercontent.com/44503876/211835795-5a707d00-bc6d-41f7-9028-55bba30d71af.png)
   
 
