@@ -159,18 +159,21 @@ if (sys.nframe() == 0) {
   # Scaffold_1043_1001
   align_dot_bracket(hairpin_db = "(.(((((((.(((((.((((.(((((......).))))))))))))).))))))).)))")
   align_dot_bracket(hairpin_db = "(.(((((((.(((((.((((.(((((......).))))))))))))).))))))).)))", 
+                    align_from_loop = TRUE,
                     mirna_precursor_seq = "aggccugaaucuuugucucaaccuucuguaaugaaaggugagcaaaguuucaggugugu",
                     mirna_mature_seq = "gugagcaaaguuucaggugugu", mirna_star_seq = "aggccugaaucuuugucuca")
   
   # Scaffold_1043_1003
   align_dot_bracket(hairpin_db = "(((((((((..(((.((((.((((.((...)).)))))))))))..))))))))))..")
   align_dot_bracket(hairpin_db = "(((((((((..(((.((((.((((.((...)).)))))))))))..))))))))))..", 
+                    align_from_loop = TRUE,
                     mirna_precursor_seq = "cgccugaaagcuugacucaaccuuugcauagucaaggugagcaaaguuucaggugugu",
                     mirna_mature_seq = "gugagcaaaguuucaggugugu", mirna_star_seq = "cgccugaaagcuugacucaaccu")
   
   # Scaffold_6695_20322
   align_dot_bracket(hairpin_db = "(.((.((((...((((.((.((((.((((.((.((((...)))).)).)))).)))).)).))))...)))).)).)))")
   align_dot_bracket(hairpin_db = "(.((.((((...((((.((.((((.((((.((.((((...)))).)).)))).)))).)).))))...)))).)).)))", 
+                    align_from_loop = TRUE,
                     mirna_precursor_seq = "cuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgag",
                     mirna_mature_seq = "ugaccgggagcuggccacgag", mirna_star_seq = "cuugaccgggagcuggccacg")
 }
