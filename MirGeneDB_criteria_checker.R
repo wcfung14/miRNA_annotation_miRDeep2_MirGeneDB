@@ -4,7 +4,7 @@
 #' by excel result output of mirdeep2 and miRNA's dot-bracket notation.
 #' IMPORTANT: Rule 2 is NOT checked currently, and mirgenedb_rule_all_df does not check for rule 2
 #' @param mirdeep2_res_db_seq_structure data.frame; excel result output of mirdeep2, after mapping microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences) ("dot_bracket_notation_seq_mapper.R")
-#' @return dataframe of 9 columns ("mirna_id", "mirgenedb_rule_1", "mirgenedb_rule_2", mirgenedb_rule_3_AtLeast16bp", "mirgenedb_rule_3_ImperfectComplementarity", "mirgenedb_rule_4", "mirgenedb_rule_5", "mirgenedb_rule_6", "mirgenedb_rule_all")
+#' @return dataframe of 16 columns (""mirna_id", "mirgenedb_rule_1_bothArmsExpressed", "mirgenedb_rule_2_5end_homogeneous", "mirgenedb_rule_3_imperfectComplementarity", "mirgenedb_rule_3_bpNumber", "mirgenedb_rule_3_atLeast16bp", "mirgenedb_rule_3_imperfectComplementarity_atLeast16bp", "mirgenedb_rule_4_2nt_5end_2ntOffset", "mirgenedb_rule_4_2nt_3end_2ntOffset", "mirgenedb_rule_4_2nt_3end_isU", "mirgenedb_rule_4_2ntOffset_3endisU", "mirgenedb_rule_5_loopLength", "mirgenedb_rule_5_loopAtLeast8nt", "mirgenedb_rule_6_mature_nt", "mirgenedb_rule_6_matureStartAorU", "mirgenedb_rule_all")
 #' @export
 
 check_MirGeneDB_criteria <- function(mirdeep2_res_db_seq_structure) {
@@ -85,7 +85,7 @@ check_MirGeneDB_criteria <- function(mirdeep2_res_db_seq_structure) {
     mirgenedb_rule_3_imperfectComplementarity_atLeast16bp & mirgenedb_rule_4_2ntOffset_3endisU & mirgenedb_rule_5_loopAtLeast8nt & mirgenedb_rule_6_matureStartAorU
   summary(mirgenedb_rule_all)
   
-  # SKIP mirgenedb_rule_2_5end_homogeneous first
+  # mirgenedb_rule_2_5end_homogeneous returns NA
   mirgenedb_rule_all_df <- data.frame(mirna_id, mirgenedb_rule_1_bothArmsExpressed, 
                                       mirgenedb_rule_2_5end_homogeneous,
                                       mirgenedb_rule_3_imperfectComplementarity, mirgenedb_rule_3_bpNumber,
