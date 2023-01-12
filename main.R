@@ -90,6 +90,6 @@ write.csv(mirdeep2_res_db_seq_structure, paste0(MIRDEEP2_RESULT_PATH, "_db_seq_s
 source("MirGeneDB_criteria_checker.R")
 mirgenedb_rule_all_df <- check_MirGeneDB_criteria(mirdeep2_res_db_seq_structure)
 mirdeep2_res_db_seq_structure_checked <- merge(mirdeep2_res_db_seq_structure, mirgenedb_rule_all_df, by.x="provisional.id", by.y="mirna_id", all.x = TRUE)
-summary(mirGeneDB_criteria_check_df)
+summary(mirgenedb_rule_all_df)
 
 write.csv(mirdeep2_res_db_seq_structure_checked, paste0(MIRDEEP2_RESULT_PATH, "_db_seq_structure_checked.csv"), row.names = FALSE)
