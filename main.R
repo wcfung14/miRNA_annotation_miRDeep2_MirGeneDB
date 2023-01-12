@@ -88,8 +88,8 @@ write.csv(mirdeep2_res_db_seq_structure, paste0(MIRDEEP2_RESULT_PATH, "_db_seq_s
 # return a dataframe of 9 columns of MirGeneDB criteria check("mirna_id", "mirgenedb_rule_1", "mirgenedb_rule_2", mirgenedb_rule_3_AtLeast16bp", "mirgenedb_rule_3_ImperfectComplementarity", "mirgenedb_rule_4", "mirgenedb_rule_5", "mirgenedb_rule_6", "mirgenedb_rule_all")
 #' IMPORTANT: Rule 2 is NOT checked currently, and mirgenedb_rule_all does not check for rule 2
 source("MirGeneDB_criteria_checker.R")
-mirGeneDB_criteria_check_df <- check_MirGeneDB_criteria(mirdeep2_res_db_seq_structure)
-mirdeep2_res_db_seq_structure_checked <- merge(mirdeep2_res_db_seq_structure, mirGeneDB_criteria_check_df, by.x="provisional.id", by.y="mirna_id", all.x = TRUE)
+mirgenedb_rule_all_df <- check_MirGeneDB_criteria(mirdeep2_res_db_seq_structure)
+mirdeep2_res_db_seq_structure_checked <- merge(mirdeep2_res_db_seq_structure, mirgenedb_rule_all_df, by.x="provisional.id", by.y="mirna_id", all.x = TRUE)
 summary(mirGeneDB_criteria_check_df)
 
-write.csv(mirdeep2_res_db_seq_structure_checked, paste0(MIRDEEP2_RESULT_PATH, "_db_seq_structure_check.csv"), row.names = FALSE)
+write.csv(mirdeep2_res_db_seq_structure_checked, paste0(MIRDEEP2_RESULT_PATH, "_db_seq_structure_checked.csv"), row.names = FALSE)
