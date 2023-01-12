@@ -99,7 +99,7 @@ align_dot_bracket <- function(hairpin_db, align_from_loop = TRUE, mirna_precurso
  
   if (align_from_loop) {
     # align starting from the loop (robust to different number of "( and ")" )
-    db_aligned_from_loop <- align_top_bottom_db(top = top_strand_rev_inv, bottom = bottom_strand) 
+    db_aligned <- align_top_bottom_db(top = top_strand_rev_inv, bottom = bottom_strand) 
   } else {
     # align starting from first character of strand (does not work if number of "(" in the top strand is not the same as ")" in the bottom strand)
     db_aligned <- align_top_bottom_db(top = top_strand, bottom = bottom_strand_rev_inv)
@@ -117,8 +117,8 @@ align_dot_bracket <- function(hairpin_db, align_from_loop = TRUE, mirna_precurso
     {
       j <- 1 # initialize index for mirna_precursor_seq_UPPER
       top_strand_align_seq = ""
-      for (i in 1:nchar(db_aligned_from_loop$top_strand_align)) {
-        if (unlist(stringr::str_split(db_aligned_from_loop$top_strand_align, pattern = ""))[i] == "-") { # if top strand is a gap, insert gap to top_strand_align_seq
+      for (i in 1:nchar(db_aligned$top_strand_align)) {
+        if (unlist(stringr::str_split(db_aligned$top_strand_align, pattern = ""))[i] == "-") { # if top strand is a gap, insert gap to top_strand_align_seq
           top_strand_align_seq[i] <- "-"
         } else { # if top strand is not a gap (i.e. is match or mismatch), insert mirna_precursor_seq_UPPER to top_strand_align_seq, +1 to mirna_precursor_seq_UPPER index
           top_strand_align_seq[i] <- unlist(stringr::str_split(mirna_precursor_seq_UPPER, ""))[j]
@@ -131,8 +131,8 @@ align_dot_bracket <- function(hairpin_db, align_from_loop = TRUE, mirna_precurso
     {
       j <- 1 # initialize index for mirna_precursor_seq_UPPER
       bottom_strand_align_seq = ""
-      for (i in 1:nchar(db_aligned_from_loop$bottom_strand_align)) {
-        if (unlist(stringr::str_split(db_aligned_from_loop$bottom_strand_align, pattern = ""))[i] == "-") { # if bottom strand is a gap, insert gap to bottom_strand_align_seq
+      for (i in 1:nchar(db_aligned$bottom_strand_align)) {
+        if (unlist(stringr::str_split(db_aligned$bottom_strand_align, pattern = ""))[i] == "-") { # if bottom strand is a gap, insert gap to bottom_strand_align_seq
           bottom_strand_align_seq[i] <- "-"
         } else { # if bottom strand is not a gap (i.e. is match or mismatch), insert the reverse of mirna_precursor_seq_UPPER to bottom_strand_align_seq, +1 to mirna_precursor_seq_UPPER index
           bottom_strand_align_seq[i] <- unlist(stringr::str_split(stringi::stri_reverse(mirna_precursor_seq_UPPER), ""))[j]
@@ -143,14 +143,14 @@ align_dot_bracket <- function(hairpin_db, align_from_loop = TRUE, mirna_precurso
     }
     
     # make miRNA structure with nucleotide seq
-    hairpin_structure_seq <- paste(top_strand_align_seq, db_aligned_from_loop$strand_match, bottom_strand_align_seq, sep="\n")
+    hairpin_structure_seq <- paste(top_strand_align_seq, db_aligned$strand_match, bottom_strand_align_seq, sep="\n")
     
-    db_aligned_from_loop[, "top_strand_align_seq"] = top_strand_align_seq
-    db_aligned_from_loop[, "bottom_strand_align_seq"] = bottom_strand_align_seq
-    db_aligned_from_loop[, "hairpin_structure_seq"] = hairpin_structure_seq
+    db_aligned[, "top_strand_align_seq"] = top_strand_align_seq
+    db_aligned[, "bottom_strand_align_seq"] = bottom_strand_align_seq
+    db_aligned[, "hairpin_structure_seq"] = hairpin_structure_seq
   }
 
-  return(db_aligned_from_loop)
+  return(db_aligned)
 } # function END  
 #===================================================
 
