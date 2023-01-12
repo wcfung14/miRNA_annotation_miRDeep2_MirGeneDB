@@ -48,7 +48,6 @@ write.csv(mirdeep2_res_db, paste0(MIRDEEP2_RESULT_PATH, "_db.csv"), row.names = 
 # return a dataframe of 14 columns of miRNA structure information: ("skip_this", "mature_loc_start", "mature_loc_end", "star_loc_start", "star_loc_end", "loop_loc_start", "loop_loc_end", "mature_first", "hairpin_db", "mature_db", "star_db", "extension_db", "loop_db", "Remarks")
 source("dot_bracket_notation_seq_mapper.R")
 mirna_map_df <- data.frame()
-mirna_id <- list()
 
 for (i in 1:nrow(mirdeep2_res_db)) {
   if (is.na(mirdeep2_res_db$mirna_seq[i])) {next}
@@ -68,6 +67,7 @@ write.csv(mirdeep2_res_db_seq, paste0(MIRDEEP2_RESULT_PATH, "_db_seq.csv"), row.
 # return a dataframe of 8 columns of miRNA hairpin structure information: ("top_strand_align", "strand_match", "bottom_strand_align", "hairpin_structure_db", "Remarks", "bottom_strand_align_seq", "hairpin_structure_seq")
 source("dot_bracket_notation_aligner.R")
 hairpin_structure_df <- data.frame()
+
 for (i in 1:nrow(mirdeep2_res_db_seq)) {
   if (is.na(mirdeep2_res_db_seq$hairpin_db[i])) {next}
   res <- align_dot_bracket(hairpin_db = mirdeep2_res_db_seq$hairpin_db[i], 
