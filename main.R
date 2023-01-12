@@ -71,6 +71,7 @@ hairpin_structure_df <- data.frame()
 for (i in 1:nrow(mirdeep2_res_db_seq)) {
   if (is.na(mirdeep2_res_db_seq$hairpin_db[i])) {next}
   res <- align_dot_bracket(hairpin_db = mirdeep2_res_db_seq$hairpin_db[i], 
+                           align_from_loop = TRUE
                            mirna_precursor_seq = mirdeep2_res_db_seq$consensus.precursor.sequence[i], 
                            mirna_mature_seq = mirdeep2_res_db_seq$consensus.mature.sequence[i],
                            mirna_star_seq = mirdeep2_res_db_seq$consensus.star.sequence[i])
