@@ -46,6 +46,7 @@ write.csv(mirdeep2_res_db, paste0(MIRDEEP2_RESULT_PATH, "_db.csv"), row.names = 
 
 # 5. Map microRNAs dot-bracket notation to miRNA sequences and return miRNA structure information (mature, star and loop sequences)
 # return a dataframe of 14 columns of miRNA structure information: ("skip_this", "mature_loc_start", "mature_loc_end", "star_loc_start", "star_loc_end", "loop_loc_start", "loop_loc_end", "mature_first", "hairpin_db", "mature_db", "star_db", "extension_db", "loop_db", "Remarks")
+# Alignment does not work if there are more than one loop found in miRNA sequences. Will skip if "skip_this" == TRUE
 source("dot_bracket_notation_seq_mapper.R")
 mirna_map_df <- data.frame()
 
