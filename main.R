@@ -5,7 +5,7 @@
 #' Known limitations:
 #' 1. Alignment does not work if there are more than one loop found in miRNA sequences (will skip if "skip_this" == TRUE when running "dot_bracket_notation_seq_mapper.R") (e.g. Tco_Scaffold_6695_20322, Hho_SczTNLB_6657_30897) 
 #' 2. Does not check for Rule 2 of MirGeneDB "Unique structural features of microRNAs"
-#' 3. The projected miRNA hairpin structure in mirdeep2 pdf files is not the same as that of dot-bracket notation (e.g. Tco_Scaffold_9089_33841)
+#' 3. Some projected miRNA hairpin structure in mirdeep2 pdf files is not the same as that of dot-bracket notation (e.g. Tco_Scaffold_9089_33841)
 #' 4. The "obs" miRNA sequence in mirdeep2 results is used in this analysis. The "exp" sequence (with Cyan color, from mirdeep2 prediction, to fulfill criteria) and its additional nucleotide is not included as part of "consensus.mature.sequence" or "consensus.star.sequence", and will not be used for analysis by this package.
 
   # 1. Initialize environment parameters
