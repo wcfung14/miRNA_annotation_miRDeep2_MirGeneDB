@@ -3,7 +3,7 @@
 #' Workflow: parsing mirdeep2 results, taking miRNA dot-bracket notations, mapping to miRNA sequences and obtain miRNA structure and hairpin information, make miRNA hairpins by aligning top and bottom strand, and checking for MirGeneDB "Unique structural features of microRNAs".
 #' Require packages: pdftools, stringr, stringi
 #' Known limitations:
-#' 1. Alignment does not work if there are more than one loop found in miRNA sequences (will skip intentionally) (e.g. Tco_Scaffold_6695_20322, Hho_SczTNLB_6657_30897) 
+#' 1. Alignment does not work if there are more than one loop found in miRNA sequences (will skip if "skip_this" == TRUE when running "dot_bracket_notation_seq_mapper.R") (e.g. Tco_Scaffold_6695_20322, Hho_SczTNLB_6657_30897) 
 #' 2. Does not check for Rule 2 of MirGeneDB "Unique structural features of microRNAs"
 #' 3. The projected miRNA hairpin structure in mirdeep2 pdf files is not the same as that of dot-bracket notation (e.g. Tco_Scaffold_9089_33841)
 #' 4. The "obs" miRNA sequence in mirdeep2 results is used in this analysis. The "exp" sequence (with Cyan color, from mirdeep2 prediction, to fulfill criteria) and its additional nucleotide is not included as part of "consensus.mature.sequence" or "consensus.star.sequence", and will not be used for analysis by this package.
@@ -52,8 +52,8 @@ mirna_map_df <- data.frame()
 for (i in 1:nrow(mirdeep2_res_db)) {
   if (is.na(mirdeep2_res_db$mirna_seq[i])) {next}
   res <- map_dot_bracket_notation_seq(mirna_seq = mirdeep2_res_db$mirna_seq[i], # mirdeep2_res_db_seq$consensus.precursor.sequence
-                                      mirna_mature_seq = mirdeep2_res_db$consensus.mature.sequence[i], 
-                                      mirna_star_seq = mirdeep2_res_db$consensus.star.sequence[i],
+                                      mirna_mature_seq = mirdeep2_res_db$consensus.mature.sequence[i], # required
+                                      mirna_star_seq = mirdeep2_res_db$consensus.star.sequence[i], # required
                                       dot_bracket_notation = mirdeep2_res_db$dot_bracket_notation[i])
   mirna_id = mirdeep2_res_db$provisional.id[i]
   res <- cbind(mirna_id, res) # add mirna_id for merging
