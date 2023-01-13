@@ -51,7 +51,7 @@ mirna_map_df <- data.frame()
 
 for (i in 1:nrow(mirdeep2_res_db)) {
   if (is.na(mirdeep2_res_db$mirna_seq[i])) {next}
-  res <- map_dot_bracket_notation_seq(mirna_seq = mirdeep2_res_db$mirna_seq[i], 
+  res <- map_dot_bracket_notation_seq(mirna_seq = mirdeep2_res_db$mirna_seq[i], # mirdeep2_res_db_seq$consensus.precursor.sequence
                                       mirna_mature_seq = mirdeep2_res_db$consensus.mature.sequence[i], 
                                       mirna_star_seq = mirdeep2_res_db$consensus.star.sequence[i],
                                       dot_bracket_notation = mirdeep2_res_db$dot_bracket_notation[i])
