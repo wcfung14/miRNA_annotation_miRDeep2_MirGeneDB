@@ -1,6 +1,6 @@
 #' @title Dot-bracket notation to microRNAs sequences mapper
 #' @description Given a microRNA sequence, mature sequence, star sequence, and dot-bracket notation, map dot-bracket notation to miRNA sequences.
-#' @param mirna_seq string; miRNA sequence from mirdeep2 results. Obtained after scrapping miRNA dot-bracket notation to miRNA sequences ("dot_bracket_notation_scrapper.R")
+#' @param mirna_seq string; miRNA sequence from mirdeep2 .pdf results. Obtained after scrapping miRNA dot-bracket notation to miRNA sequences ("dot_bracket_notation_scrapper.R") (Has the same length with mirna dot_bracket_notation, not mirdeep2_res_db_seq$consensus.precursor.sequence)
 #' @param mirna_mature_seq string; miRNA mature sequence from mirdeep2 results (consensus.mature.sequence)
 #' @param mirna_star_seq string; miRNA star sequence from mirdeep2 results (consensus.star.sequence)
 #' @param dot_bracket_notation string; dot-bracket notation from mirdeep2 results. Obtained after scrapping miRNA dot-bracket notation to miRNA sequences ("dot_bracket_notation_scrapper.R")
