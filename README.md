@@ -36,4 +36,5 @@ Workflow in `main.R`:
 - `"MirGeneDB_criteria_checker.R"` - Check for MirGeneDB "Unique structural features of microRNAs"
 
 ##
-- `test` - Include test case input and expected output
+- `test` - Include test case input and expected output (from the following paper)
+> Qu, Z., Nong, W., So, W. L., Barton-Owen, T., Li, Y., Leung, T. C., ... & Hui, J. H. (2020). Millipede genomes reveal unique adaptations during myriapod evolution. PLoS biology, 18(9), e3000636.
