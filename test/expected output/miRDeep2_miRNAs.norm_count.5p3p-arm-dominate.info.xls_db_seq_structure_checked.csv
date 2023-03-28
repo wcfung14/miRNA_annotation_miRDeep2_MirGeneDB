@@ -3,27 +3,27 @@
   | ||||||| ||||| |||| |||| |      
 ))).))))))).)))))-))))-)))).)------",NA,"--AGGCCUGAAUCUUUGUCUCAaccuu-cuguaau","UGUGUGGACUUUGAAAC-GAGU-Ggaaag------","--AGGCCUGAAUCUUUGUCUCAaccuu-cuguaau
   | ||||||| ||||| |||| |||| |      
-UGUGUGGACUUUGAAAC-GAGU-Ggaaag------",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,6,FALSE,"g",FALSE,FALSE
+UGUGUGGACUUUGAAAC-GAGU-Ggaaag------",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,6,FALSE,"u",TRUE,FALSE
 "Scaffold_1043_1003","3p","3p","3p","3p","3p","3p",567073.3,NA,"-",1112282,1109528,1,2753,"yes","-","cel-miR-87-3p","-","-","gugagcaaaguuucaggugugu","cgccugaaagcuugacucaaccu","cgccugaaagcuugacucaaccuuugcauagucaaggugagcaaaguuucaggugugu","Scaffold_1043:32209565..32209623:+",".(((((((......))))))).(((((((((..((((((((((..(((.((((.((((.((...)).)))))))))))..))))))))))...)))))))))......","uuguaggucugugcauuuauacagcucuacuuggcgccugaaagcuugacucaaccuuugcauagucaaggugagcaaaguuucaggugugucagugggguuaaaaug",FALSE,71,92,35,57,61,65,FALSE,"(((((((((..(((.((((.((((.((...)).)))))))))))..))))))))))..","))))))))..))))))))))..","(((((((((..(((.((((.(((","(.((...)).)))","(...)","","---(((((((((..(((.((((.((((.((...","   |||||||||  ||| |||| |||| ||   ","..))))))))))..)))-))))-)))).))---","---(((((((((..(((.((((.((((.((...
    |||||||||  ||| |||| |||| ||   
 ..))))))))))..)))-))))-)))).))---",NA,"---CGCCUGAAAGCUUGACUCAACCUuugcaua","UGUGUGGACUUUGAAAC-GAGU-Ggaacug---","---CGCCUGAAAGCUUGACUCAACCUuugcaua
    |||||||||  ||| |||| |||| ||   
-UGUGUGGACUUUGAAAC-GAGU-Ggaacug---",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,3,FALSE,"g",FALSE,FALSE
+UGUGUGGACUUUGAAAC-GAGU-Ggaacug---",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,3,FALSE,"u",TRUE,FALSE
 "Scaffold_1043_1249","/","3p!","3p!","3p!","/","/",1.3,NA,"-",83,83,0,0,"yes","-","-","-","-","uguguaguuugaaaaguuauc","ugacuuuucaaacuacauacu","ugacuuuucaaacuacauacuguacaccguguguaguuugaaaaguuauc","Scaffold_1043:46017452..46017502:+",".((((((((..((........))..)))))))).((((...((((((((((((((((((((.(....).))))))))))))))))))))..))))...............","auugugugugauacucgaauuugcugcacacaaauggaccuugacuuuucaaacuacauacuguacaccguguguaguuugaaaaguuaucuucaaguagcccaaauaaa",FALSE,71,91,42,62,63,68,FALSE,"((((((((((((((((((((.(....).))))))))))))))))))))..",")))))))))))))))))))..","((((((((((((((((((((.","(....).)","(....)","","--((((((((((((((((((((.(....","  |||||||||||||||||||| |    ","..)))))))))))))))))))).)----","--((((((((((((((((((((.(....
   |||||||||||||||||||| |    
 ..)))))))))))))))))))).)----",NA,"--UGACUUUUCAAACUACAUACUguaca","CUAUUGAAAAGUUUGAUGUGUgcc----","--UGACUUUUCAAACUACAUACUguaca
   |||||||||||||||||||| |    
-CUAUUGAAAAGUUUGAUGUGUgcc----",FALSE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+CUAUUGAAAAGUUUGAUGUGUgcc----",FALSE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_1043_1251","3p","3p","3p","3p","3p","3p",2245281,NA,"-",4404017,4354088,11,49918,"yes","-","dme-miR-8-3p","-","-","uaauacugucagguaaugauguc","caucuuaccaggcagcauuaga","caucuuaccaggcagcauuagauccgaggauuuaaaacucuaauacugucagguaaugauguc","Scaffold_1043:46065955..46066018:+",".....................((((((.(.(((((((((.(((((.((((((((....))........)))))).))))).))))).)))).).))))))..........","uaacaaaaauuauauaauaaucuuuguagucaucuuaccaggcagcauuagauccgaggauuuaaaacucuaauacugucagguaaugaugucagcagaguuucguacaa",FALSE,71,93,31,52,54,59,FALSE,"(((((((((.(((((.((((((((....))........)))))).))))).))))).)))).)",")))).))))).))))).)))).)","(((((((((.(((((.((((((","((....))........))","(....)","","--((((-(((((.(((((.((((((--------((....","  |||| ||||| ||||| ||||||        ||    ",").)))).))))).))))).))))))........))----","--((((-(((((.(((((.((((((--------((....
   |||| ||||| ||||| ||||||        ||    
 ).)))).))))).))))).))))))........))----",NA,"--CAUC-UUACCAGGCAGCAUUAGA--------uccgag","CUGUAGUAAUGGACUGUCAUAAUcucaaaauuuag----","--CAUC-UUACCAGGCAGCAUUAGA--------uccgag
   |||| ||||| ||||| ||||||        ||    
-CUGUAGUAAUGGACUGUCAUAAUcucaaaauuuag----",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+CUGUAGUAAUGGACUGUCAUAAUcucaaaauuuag----",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_1043_1255","3p!","3p!","3p!","3p!","/","3p!",5.4,NA,"-",166,166,0,0,"yes","-","tca-miR-3820-5p","-","-","uuugccaagcuggagugucgaca","uugacauucuaguuuggcaaacg","uugacauucuaguuuggcaaacggcggcgggcgccauuugccaagcuggagugucgaca","Scaffold_1043:46291919..46291978:+","....(((...(((((.(((..((....))..)))(((((((((((((((((((((.((((.....)))).)))))))))))))))))))))...)))))..)))........","aaagggacuuuguucaagauugcuauuguccucuuugacauucuaguuuggcaaacggcggcgggcgccauuugccaagcuggagugucgacaagagcaccuccauuagauu",FALSE,71,93,35,57,60,66,FALSE,"(((((((((((((((((((((.((((.....)))).)))))))))))))))))))))..",")))))))))))))))))))))..","(((((((((((((((((((((.(","(((.....)))).","(.....)","","--(((((((((((((((((((((.((((.....","  ||||||||||||||||||||| ||||     ","..))))))))))))))))))))).))))-----","--(((((((((((((((((((((.((((.....
   ||||||||||||||||||||| ||||     
 ..))))))))))))))))))))).))))-----",NA,"--UUGACAUUCUAGUUUGGCAAACGgcggcggg","ACAGCUGUGAGGUCGAACCGUUUaccgc-----","--UUGACAUUCUAGUUUGGCAAACGgcggcggg
   ||||||||||||||||||||| ||||     
-ACAGCUGUGAGGUCGAACCGUUUaccgc-----",FALSE,NA,TRUE,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"u",TRUE,FALSE
+ACAGCUGUGAGGUCGAACCGUUUaccgc-----",FALSE,NA,TRUE,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"a",TRUE,FALSE
 "Scaffold_1043_1268","/","/","/","5p!","5p!","/",0,NA,"-",365,365,0,0,"yes","-","dsi-miR-2579","-","-","guaagugacuucuaaacugga","cauuuuagagagcauuuaaaa","guaagugacuucuaaacuggacccuaaugauccauuuuagagagcauuuaaaa","Scaffold_1043:47732811..47732864:+","........(((((.(((((..((((((..(((((((.((((.(.....).)))).)))))))..))))))....(((.........)))....))))))))))........","uucauaccucugacaucaaaguaagugacuucuaaacuggacccuaaugauccauuuuagagagcauuuaaaaacgauucccuuuuucgacucuugauuuagaucaacaga",FALSE,21,41,53,73,43,49,TRUE,".((((((..(((((((.((((.(.....).)))).)))))))..))))))...",".((((((..(((((((.((((",")).)))))))..))))))...",".(.....).))","(.....)","","--.((((((..(((((((.((((.(.....","   ||||||  ||||||| |||| |     ","...))))))..))))))).)))).)-----","--.((((((..(((((((.((((.(.....
    ||||||  ||||||| |||| |     
 ...))))))..))))))).)))).)-----",NA,"--GUAAGUGACUUCUAAACUGGAcccuaau","AAAAUUUACGAGAGAUUUUACcuag-----","--GUAAGUGACUUCUAAACUGGAcccuaau
@@ -38,7 +38,7 @@ UGCCC---UGUAAUCUAUACUGCCg------ca-cgugcaggau----",FALSE,NA,TRUE,15,FALSE,FALSE,T
   |||||||     ||||| |    
 ))))))))).....))))).)----",NA,"--CGUCAUC----GCUGUUUGAAuu","UUGCGGUAGAACAAGAUAGCC----","--CGUCAUC----GCUGUUUGAAuu
   |||||||     ||||| |    
-UUGCGGUAGAACAAGAUAGCC----",FALSE,NA,TRUE,15,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"c",FALSE,FALSE
+UUGCGGUAGAACAAGAUAGCC----",FALSE,NA,TRUE,15,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"u",TRUE,FALSE
 "Scaffold_1043_1463","3p!","3p","3p!","/","3p!","/",5.4,NA,"-",52,50,0,2,"yes","-","gga-miR-1660","-","-","uaggccuguauucuauauacu","uauagagaauacaggccuacu","uauagagaauacaggccuacuguaucccuauacaguaggccuguauucuauauacu","Scaffold_1043:55859284..55859340:+","...............((((...(((((.(((.(.(((((.((((((((((((((((((((....)))))))))))))))))))).))))).)...))).)))))..)))).","uauuaccaucuauaacaauagugcuuuauaaugcguauagagaauacaggccuacuguaucccuauacaguaggccuguauucuauauacucuucuuacagggcugguugg",FALSE,71,91,36,56,60,65,FALSE,"((((.((((((((((((((((((((....)))))))))))))))))))).))))).",")))))))))))))).))))).","((((.((((((((((((((((","((((....))))))","(....)","","--((((.((((((((((((((((((((....","  |||| ||||||||||||||||||||    ",".))))).))))))))))))))))))))----","--((((.((((((((((((((((((((....
   |||| ||||||||||||||||||||    
 .))))).))))))))))))))))))))----",NA,"--UAUAGAGAAUACAGGCCUACUguaucccu","UCAUAUAUCUUAUGUCCGGAUgacaua----","--UAUAGAGAAUACAGGCCUACUguaucccu
@@ -53,7 +53,7 @@ CGUACUGUUGCCUUUGGAAUAC-c--uguuu----",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,T
    |||||||   ||| |||         
 ...)))))))...)))-)))---------",NA,"--GUCUCAGG--AAAUGCCUAAUUuauUG","ACGAGAGUUUAUGUUA-GGA---------","--GUCUCAGG--AAAUGCCUAAUUuauUG
    |||||||   ||| |||         
-ACGAGAGUUUAUGUUA-GGA---------",FALSE,NA,TRUE,13,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,9,TRUE,"u",TRUE,FALSE
+ACGAGAGUUUAUGUUA-GGA---------",FALSE,NA,TRUE,13,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,9,TRUE,"a",TRUE,FALSE
 "Scaffold_1043_2358","3p!","3p!","3p!","3p!","3p!","3p!",5.4,NA,"-",3088,2602,486,0,"yes","-","ame-miR-3724","-","-","uucgugguugcuuuagccccugggu","ccaguggcagcaaucugcccug","ccaguggcagcaaucugcccugauggauggccagaugaaucucugugucaggagcuucgugguugcuuuagccccugggu","Scaffold_1043:6082886..6082966:-",".((((..((((.(((((((.((((((((((.(((((((((......((((......))))))))))).)).....)))))))...))).))))))))))).))))..........","aaggcaggucugcacccaguggcagcaaucugcccugauggauggccagaugaaucucugugucaggagcuucgugguugcuuuagccccugggugagauagccugugaauggaa",FALSE,71,95,16,37,50,57,FALSE,"((((.((((((((((.(((((((((......((((......))))))))))).)).....)))))))...))).))))))",".....)))))))...))).))))))","((((.((((((((((.((((((","(((......((((......))))))))))).))","(......)","","--((((.(((---(((((((----.((-(((((((......((((......","  |||| |||   |||||||     || |||||||      ||||      ",")))))).)))...))))))).....)).)))))))------))))------","--((((.(((---(((((((----.((-(((((((......((((......
   |||| |||   |||||||     || |||||||      ||||      
 )))))).)))...))))))).....)).)))))))------))))------",NA,"--CCAGUGGC---AGCAAUC----UGC-CCUGauggauggccagaugaauc","UGGGUCCCCGAUUUCGUUGGUGCUUcgaggacugu------gucu------","--CCAGUGGC---AGCAAUC----UGC-CCUGauggauggccagaugaauc
@@ -63,7 +63,7 @@ UGGGUCCCCGAUUUCGUUGGUGCUUcgaggacugu------gucu------",FALSE,NA,TRUE,16,TRUE,TRUE,
       || || |||||||||||     ||||||  | |||||    
 ...))))).))-)))))))))))---..))))))..)-)))))----",NA,"------UA-CCAGCUAUGGUGCCAAGCGACCccgccgucacuuagga","CCACCGGUUGG-CGGUGCUACGG---AAUgggguauc-gugaa----","------UA-CCAGCUAUGGUGCCAAGCGACCccgccgucacuuagga
       || || |||||||||||     ||||||  | |||||    
-CCACCGGUUGG-CGGUGCUACGG---AAUgggguauc-gugaa----",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+CCACCGGUUGG-CGGUGCUACGG---AAUgggguauc-gugaa----",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_1043_2671","5p!","/","5p!","5p!","5p!","5p",120.1,NA,"-",231,226,2,3,"yes","-","hsv1-miR-H6-5p","-","-","uguggaaguaugcuuauuggu","caauuaacaaacuccuacacu","uguggaaguaugcuuauugguauugcaaauuauuuaugaaaaaaguauuccugguaccaauuaacaaacuccuacacu","Scaffold_1043:23308503..23308581:-",".......(((..(((((((((((((.(((.((...(((((((((......(((((.......))))).....)))))))))...)).))).))))).))))))))..))).","uauccauucuugaaaacugauguggaaguaugcuuauugguauugcaaauuauuuaugaaaaaaguauuccugguaccaauuaacaaacuccuacacucaguuuuauagac",FALSE,21,41,78,98,55,63,TRUE,"(((((.(((.((...(((((((((......(((((.......))))).....)))))))))...)).))).))))).)","(((((.(((.((...((((((","))))...)).))).))))).)","(((......(((((.......))))).....)))))","(.......)","","--(((((.(((.((...(((((((((......(((((.......","  ||||| ||| ||   |||||||||      |||||       ",").))))).))).))...)))))))))-.....)))))-------","--(((((.(((.((...(((((((((......(((((.......
   ||||| ||| ||   |||||||||      |||||       
 ).))))).))).))...)))))))))-.....)))))-------",NA,"--UGUGGAAGUAUGCUUAUUGGUauugcaaauuauuuaugaaaa","UCACAUCCUCAAACAAUUAACcaugg-uccuuaugaa-------","--UGUGGAAGUAUGCUUAUUGGUauugcaaauuauuuaugaaaa
@@ -73,7 +73,7 @@ UCACAUCCUCAAACAAUUAACcaugg-uccuuaugaa-------",TRUE,NA,TRUE,16,TRUE,TRUE,TRUE,TRU
 |||||||||||||||| |||||||     ||| ||||   ||||     
 )))))))))))))))).))))))).....))).))))...))))-----",NA,"AGUGCUUGCAUGUGUCGUUUGguu-uuaaaaucuugg---cacagccag","UCACGAACGUACACGGAAAACcgacaaaauuacgacccaggugu-----","AGUGCUUGCAUGUGUCGUUUGguu-uuaaaaucuugg---cacagccag
 |||||||||||||||| |||||||     ||| ||||   ||||     
-UCACGAACGUACACGGAAAACcgacaaaauuacgacccaggugu-----",TRUE,NA,TRUE,20,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,5,FALSE,"c",FALSE,FALSE
+UCACGAACGUACACGGAAAACcgacaaaauuacgacccaggugu-----",TRUE,NA,TRUE,20,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,5,FALSE,"u",TRUE,FALSE
 "Scaffold_1043_2718","3p!","3p","3p!","3p!","3p!","5p!",48,NA,"-",95,93,0,2,"yes","-","-","-","-","ucggccuagcuauacacacucu","agugcguauggaugagaccgug","agugcguauggaugagaccgugcuucaaaguaauuguucggccuagcuauacacacucu","Scaffold_1043:24021423..24021482:-","............(((..(((((.....((((((((((.((((((...((.(((.((............)).))).))..)))))).)))))))))))))))..)))......","aaaauauuuaaauauuuaguauaggaaacuaggagugcguauggaugagaccgugcuucaaaguaauuguucggccuagcuauacacacucuugguauacuucauagauuua",FALSE,71,92,34,55,56,69,FALSE,"((((.((((((...((.(((.((............)).))).))..)))))).))))))",".))).))..)))))).))))))","((((.((((((...((.(((.(","(............))","(............)","","--((((.((((((...((.(((.((............","  |||| ||||||   || ||| ||            ",")))))).))))))-..)).))).))------------","--((((.((((((...((.(((.((............
   |||| ||||||   || ||| ||            
 )))))).))))))-..)).))).))------------",NA,"--AGUGCGUAUGGAUGAGACCGUGcuucaaaguaauu","UCUCACACAUAUC-GAUCCGGCUug------------","--AGUGCGUAUGGAUGAGACCGUGcuucaaaguaauu
@@ -88,7 +88,7 @@ AAUAACCCUCACAUGUGCAACcaacagcuguucucaaccagu-----",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,
   ||||||||   |||| ||||||             
 ))))))))))...)))).))))))-------------",NA,"--ACUUGAGCAGUACGAUCAGAACugcuuucaaaacu","AUUGAGCUCGGCUUGCUUGUUUug-------------","--ACUUGAGCAGUACGAUCAGAACugcuuucaaaacu
   ||||||||   |||| ||||||             
-AUUGAGCUCGGCUUGCUUGUUUug-------------",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,13,TRUE,"u",TRUE,TRUE
+AUUGAGCUCGGCUUGCUUGUUUug-------------",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,13,TRUE,"a",TRUE,TRUE
 "Scaffold_1043_2937","5p","5p","5p","5p","0.666616222760291","5p",1648663.3,NA,"-",3233774,3165464,1,68309,"yes","-","hsa-miR-96-5p","-","-","uuuggcacuagcacauuuuugu","aaaauuguguuagugucgaaua","uuuggcacuagcacauuuuugugugacgaucaaaccuacaaaauuguguuagugucgaaua","Scaffold_1043:35588628..35588689:-","........(((((((((((.(((((((((((((((.(((((((((.....))....))))))).))))))))))))))).)))).)))))))....................","gcuaguccucuucucuguucuuuggcacuagcacauuuuugugugacgaucaaaccuacaaaauuguguuagugucgaauaauaugggaagacauucgucauaaaucauaca",FALSE,21,42,60,81,45,51,TRUE,"(((((((((((((((.(((((((((.....))....))))))).))))))))))))))).)","(((((((((((((((.((((((",")))).))))))))))))))).)","(((.....))....)))","(.....)","","--(((((((((((((((.(((((((----((.....","  ||||||||||||||| |||||||    ||     ",").))))))))))))))).)))))))....))-----","--(((((((((((((((.(((((((----((.....
   ||||||||||||||| |||||||    ||     
 ).))))))))))))))).)))))))....))-----",NA,"--UUUGGCACUAGCACAUUUUUGUg----ugacgau","AUAAGCUGUGAUUGUGUUAAAAcauccaaac-----","--UUUGGCACUAGCACAUUUUUGUg----ugacgau
@@ -133,7 +133,7 @@ UCUGCUCG-CUGGCUAC-UCGUUgu--------",TRUE,NA,TRUE,20,TRUE,TRUE,FALSE,FALSE,TRUE,TR
 ||||   ||| |||||||| |||        |||| ||| ||     
 --))...))).))))))))-)))-.......)))).))).))-----",NA,"UGGA--UGCAUGCACGUCCCAGUGGCuuuacagac-gccucuccaac","--CUCACCGUCCGUGUAGG-UCA-Acaucacucugacgguga-----","UGGA--UGCAUGCACGUCCCAGUGGCuuuacagac-gccucuccaac
 ||||   ||| |||||||| |||        |||| ||| ||     
---CUCACCGUCCGUGUAGG-UCA-Acaucacucugacgguga-----",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,5,FALSE,"a",TRUE,FALSE
+--CUCACCGUCCGUGUAGG-UCA-Acaucacucugacgguga-----",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,5,FALSE,"c",FALSE,FALSE
 "Scaffold_1043_710","5p","5p","5p","5p!","/","5p",4.7,NA,"-",552,519,5,28,"yes","-","ame-miR-3793","-","-","ugagcgugugugugggguuugcu","ccccauacacguucaguuuua","ugagcgugugugugggguuugcucacaucaguucuucacauuaugcccccccccccauacacguucaguuuua","Scaffold_1043:18676821..18676894:+","....((((((....(((((.((((((((((((.((((...((......................))....)))).)))))))))))).))))))))))).............","ugugugggggccuuuagaagugagcgugugugugggguuugcucacaucaguucuucacauuaugcccccccccccauacacguucaguuuuaccuucaguucuaacuguuc",FALSE,21,43,73,93,42,65,TRUE,"((((((((((((.((((...((......................))....)))).)))))))))))).)))))","((((((((((((.((((...((.",")).)))))))))))).)))))",".....................))....))","(......................)","","------((((((((((((.((((-...((......................","      |||||||||||| ||||    ||                      ","))))).)))))))))))).))))....))----------------------","------((((((((((((.((((-...((......................
       |||||||||||| ||||    ||                      
 ))))).)))))))))))).))))....))----------------------",NA,"------UGAGCGUGUGUGUGGGG-UUUGCUcacaucaguucuucacauuau","AUUUUGACUUGCACAUACCCCcccccccg----------------------","------UGAGCGUGUGUGUGGGG-UUUGCUcacaucaguucuucacauuau
@@ -148,7 +148,7 @@ CUUCACGACAUUGUGCGUUGUCUGCUucuagau------",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FAL
  |||  |||||||||||||||||||||     
 ))))--)))))))))))))))))))))-----",NA,"-AGGCAACAGGAGCAGUUGGCGUGaaaaguca","GUCU--UGUCCUCGUCAACCGCAcuuu-----","-AGGCAACAGGAGCAGUUGGCGUGaaaaguca
  |||  |||||||||||||||||||||     
-GUCU--UGUCCUCGUCAACCGCAcuuu-----",TRUE,NA,FALSE,21,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,5,FALSE,"a",TRUE,FALSE
+GUCU--UGUCCUCGUCAACCGCAcuuu-----",TRUE,NA,FALSE,21,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,5,FALSE,"g",FALSE,FALSE
 "Scaffold_1043_889","3p!","3p!","3p","3p!","3p!","3p!",106.5,NA,"-",212,211,0,1,"yes","-","-","-","-","uauaaucggauuugaagaaugau","auucuuuagaaaccguuuuaua","auucuuuagaaaccguuuuauacguucguauauaaucggauuugaagaaugau","Scaffold_1043:25847318..25847371:+","........(((((((((.((..((((((((....)))))(((((((((((..(((...(((((....)))))....))).))))))))))).)))...))...)))))))))","uuuccgcuguauaaaguaguuccgagcguucgauaacgccauucuuuagaaaccguuuuauacguucguauauaaucggauuugaagaaugaucguuuaccaaauuuuaugc",FALSE,71,93,41,62,63,68,FALSE,"((((((((((..(((...(((((....)))))....))).))))))))))).)","))....))).))))))))))).)","((((((((((..(((...((((","(....)))","(....)","","---((((((((((..(((-...(((((....","   ||||||||||  |||    |||||    ",").)))))))))))-.)))....)))))----","---((((((((((..(((-...(((((....
    ||||||||||  |||    |||||    
 ).)))))))))))-.)))....)))))----",NA,"---AUUCUUUAGAAACCG-UUUUAUAcguuc","UAGUAAGAAGUUU-AGGCUAAUAUaug----","---AUUCUUUAGAAACCG-UUUUAUAcguuc
@@ -158,7 +158,7 @@ UAGUAAGAAGUUU-AGGCUAAUAUaug----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
      ||||||||||||||||||||| |       
 ..)))))))))))))))))))))))).)-------",NA,"-----UCUACUUGAGUGUGCCAGAUUuguccuggu","CUGCCAGAUGAACUCACACGGUcuaacc-------","-----UCUACUUGAGUGUGCCAGAUUuguccuggu
      ||||||||||||||||||||| |       
-CUGCCAGAUGAACUCACACGGUcuaacc-------",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,7,FALSE,"u",TRUE,FALSE
+CUGCCAGAUGAACUCACACGGUcuaacc-------",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,7,FALSE,"c",FALSE,FALSE
 "Scaffold_1977_4768","3p!","3p","3p","3p","/","3p!",1155.6,NA,"-",2261,2194,46,21,"yes","-","sme-miR-2147b","-","-","uggaaaacuucaugguccugccagu","uggucuuaaugguccauguagagucc","uggucuuaaugguccauguagaguccagccaaagauagucuccacuccucucaaauuguuggaaaacuucaugguccugccagu","Scaffold_1977:19704250..19704334:+","((((((((......((.(((((.((..((((((...(((.(((....)))..)))......))))))...)).))))).)).))))).)))............(((....)))..","guccuggucuuaaugguccauguagaguccagccaaagauagucuccacuccucucaaauuguuggaaaacuucaugguccugccagugacuaccucccaguaggcaucagcucc",FALSE,64,88,5,30,43,48,FALSE,"((((......((.(((((.((..((((((...(((.(((....)))..)))......))))))...)).))))).)).))))).","))))...)).))))).)).))))).","((((......((.(((((.((..(((","(((...(((.(((....)))..)))......))","(....)","","--((((......((.(((((.((-..((((((---...(((-.(((....","  ||||      || ||||| ||   ||||||      |||  |||    ",".)))))-----.)).))))).))...))))))......)))..)))----","--((((......((.(((((.((-..((((((---...(((-.(((....
   ||||      || ||||| ||   ||||||      |||  |||    
 .)))))-----.)).))))).))...))))))......)))..)))----",NA,"--UGGUCUUAAUGGUCCAUGUAG-AGUCCagc---caaaga-uagucucc","UGACCG-----UCCUGGUACUUCAAAAGGUuguuaaacucuccuca----","--UGGUCUUAAUGGUCCAUGUAG-AGUCCagc---caaaga-uagucucc
@@ -173,7 +173,7 @@ UGAAAAGGUAAUGGCUGUGGUUcc---------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,TRUE,TRUE,TRU
  |||||  ||||||||| ||||||             
 .)))))..))))))))).))))))-------------",NA,"-GGGGC-AGAUCGAACG-GUGAUucuacgacucuacc","GCUCUGCCCUAGCUUGCUCACuga-------------","-GGGGC-AGAUCGAACG-GUGAUucuacgacucuacc
  |||||  ||||||||| ||||||             
-GCUCUGCCCUAGCUUGCUCACuga-------------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,13,TRUE,"c",FALSE,FALSE
+GCUCUGCCCUAGCUUGCUCACuga-------------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,13,TRUE,"g",FALSE,FALSE
 "Scaffold_4228_6998","5p","5p!","5p!","5p!","5p!","5p!",162,NA,"-",317,314,0,3,"yes","-","-","-","-","uauuugggcuaccagaauguuuu","agauucggugguccaaguggaa","uauuugggcuaccagaauguuuuuguccuuuuauaaaaagauucggugguccaaguggaa","Scaffold_4228:3415343..3415403:+","......((((((((.((((((((((((((((((.((((.(((((((......))))))).)))))))))))))))))))).)).))))).)))..................","augaaagauuugaauauuucuauuugggcuaccagaauguuuuuguccuuuuauaaaaagauucggugguccaaguggaacgucuucaacgucgccaguacgcucuuuguu",FALSE,21,43,59,80,46,53,TRUE,"(((((((((((((.((((.(((((((......))))))).))))))))))))))))))))","(((((((((((((.((((.((((",").))))))))))))))))))))","(((......))))))","(......)","","---(((((((((((((.((((.(((((((......","   ||||||||||||| |||| |||||||      ","))))))))))))))))-)))).)))))))------","---(((((((((((((.((((.(((((((......
    ||||||||||||| |||| |||||||      
 ))))))))))))))))-)))).)))))))------",NA,"---UAUUUGGGCUACCAGAAUGUUUUuguccuuuu","AAGGUGAACCUGGUGG-CUUAGAaaaaua------","---UAUUUGGGCUACCAGAAUGUUUUuguccuuuu
@@ -183,12 +183,12 @@ AAGGUGAACCUGGUGG-CUUAGAaaaaua------",TRUE,NA,TRUE,21,TRUE,TRUE,TRUE,TRUE,FALSE,T
      ||  ||||||| ||||| |||||    
 )).))))..))))))).)))))-)))))----",NA,"-----UC-UGAAUGUCCAUUGUGACGAGaaga","CGAUCAGUUCUUGCAGUUAGCG-Ugcuc----","-----UC-UGAAUGUCCAUUGUGACGAGaaga
      ||  ||||||| ||||| |||||    
-CGAUCAGUUCUUGCAGUUAGCG-Ugcuc----",FALSE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+CGAUCAGUUCUUGCAGUUAGCG-Ugcuc----",FALSE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_4228_7041","3p","3p","3p","3p","3p","3p",294237.3,NA,"-",577126,573640,0,3486,"yes","-","mmu-miR-184-3p","-","-","uggacggagaacugauaagggc","ccuuaucauucucgacuguccugu","ccuuaucauucucgacuguccugucuguauaauacaagaacuggacggagaacugauaagggc","Scaffold_4228:5578943..5579006:+","...............(((((((((((.(((((((((((((((...(((((..((((((...))).)))...)))))))))).)))))))))).)))))))).)))...","gugaagaagaaggaaugguuuuuacauguccuuaucauucucgacuguccugucuguauaauacaagaacuggacggagaacugauaagggccugugaaaauucaaua",FALSE,71,92,30,53,58,62,FALSE,"(((((((((((((...(((((..((((((...))).)))...)))))))))).))))))))))",".)))))))))).))))))))))","(((((((((((((...(((((..(","(((((...))).)))..","(...)","","--((((((((-(((((...(((((-..(((-(((...","  |||||||| |||||   |||||   ||| |||   ",")))))))))).)))))---)))))...))).)))---","--((((((((-(((((...(((((-..(((-(((...
   |||||||| |||||   |||||   ||| |||   
 )))))))))).)))))---)))))...))).)))---",NA,"--CCUUAUCA-UUCUCGACUGUCC-UGUcu-guauaa","CGGGAAUAGUCAAGAG---GCAGGUcaagaacau---","--CCUUAUCA-UUCUCGACUGUCC-UGUcu-guauaa
   |||||||| |||||   |||||   ||| |||   
-CGGGAAUAGUCAAGAG---GCAGGUcaagaacau---",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,3,FALSE,"u",TRUE,FALSE
+CGGGAAUAGUCAAGAG---GCAGGUcaagaacau---",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,3,FALSE,"c",FALSE,FALSE
 "Scaffold_4228_7048","5p","5p","5p","5p","3p","5p",290898.4,NA,"-",570576,463862,0,106714,"yes","-","cel-miR-46-5p","-","-","aagagagcuauccgugaacagu","ugucauggauuugcucucuuua","aagagagcuauccgugaacaguacuguuagaggagacugucauggauuugcucucuuua","Scaffold_4228:7223011..7223070:+",".....((..((((.(..(((((((((((.((((((((.((((.((.(....).))))))))))))))..)))))))))))..)))))..)).....................","uucaauggucaguagcuauaaagagagcuauccgugaacaguacuguuagaggagacugucauggauuugcucucuuuauuacacuggucaaaaucaucagguagcaacuac",FALSE,21,42,58,79,47,52,TRUE,"((((((((.((((((((.((((.((.(....).))))))))))))))..))))))))))","((((((((.((((((((.((((","))))))))))..))))))))))",".((.(....).))))","(....)","","--((((((((-.((((((((.((((.((.(....","  ||||||||  |||||||| |||| || |    ","))))))))))..))))))))-))))-)).)----","--((((((((-.((((((((.((((.((.(....
   ||||||||  |||||||| |||| || |    
 ))))))))))..))))))))-))))-)).)----",NA,"--AAGAGAGC-UAUCCGUGAACAGUacuguuaga","AUUUCUCUCGUUUAGGUACU-GUca-gagg----","--AAGAGAGC-UAUCCGUGAACAGUacuguuaga
@@ -198,7 +198,7 @@ AUUUCUCUCGUUUAGGUACU-GUca-gagg----",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TR
    |||| ||||||  |||||||||| ||       
 )..))))-))))))..)))))))))).))-------",NA,"---UACCCUGUAGAUCCGGGUUUuug-uagauguua","UCUAUGG-ACAUCUUAGCUCGAAGacuau-------","---UACCCUGUAGAUCCGGGUUUuug-uagauguua
    |||| ||||||  |||||||||| ||       
-UCUAUGG-ACAUCUUAGCUCGAAGacuau-------",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,7,FALSE,"g",FALSE,FALSE
+UCUAUGG-ACAUCUUAGCUCGAAGacuau-------",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,7,FALSE,"u",TRUE,FALSE
 "Scaffold_4228_7093","3p!","3p!","3p!","3p!","3p!","3p!",1.6,NA,"-",99,99,0,0,"yes","-","-","-","-","ugaccacgaacuaccgccacu","uggcgucguggucacc","uggcgucguggucaccggauuuuggcagcacugugaccacgaacuaccgccacu","Scaffold_4228:15910164..15910218:+",".............(((((((.(((....(((.((((((((((((((((((((.(.............).)))))))))).....))))))))))))).))))).)))))..","gauaaaacgugugguuggcgcuggauuguugagucgguggcgucguggucaccggauuuuggcagcacugugaccacgaacuaccgccacugaccgaacuacgaucaacac",FALSE,71,91,38,53,54,68,FALSE,"(((((((((((((((.(.............).)))))))))).....)))))))","))))))))).....)))))))","(((((((((((((((.","(.............).)","(.............)","","--(((((-----((((((((((.(.............","  |||||     |||||||||| |             ","))))))).....)))))))))).)-------------","--(((((-----((((((((((.(.............
   |||||     |||||||||| |             
 ))))))).....)))))))))).)-------------",NA,"--UGGCG-----UCGUGGUCACCggauuuuggcagca","UCACCGCCAUCAAGCACCAGUguc-------------","--UGGCG-----UCGUGGUCACCggauuuuggcagca
@@ -218,12 +218,12 @@ AAGGUGAACCUGGUGG-CUUAGAaaaaua------",TRUE,NA,TRUE,21,TRUE,TRUE,TRUE,TRUE,FALSE,T
   |||||| |||| ||||||   |||       
 .))))))).)))).))))))-..)))-------",NA,"--AGGUUGUGAUGCGUGCAAAACUguaguuuga","CGUCCGGCCCUGCUCACGUU-AAacg-------","--AGGUUGUGAUGCGUGCAAAACUguaguuuga
   |||||| |||| ||||||   |||       
-CGUCCGGCCCUGCUCACGUU-AAacg-------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,7,FALSE,"a",TRUE,FALSE
+CGUCCGGCCCUGCUCACGUU-AAacg-------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,7,FALSE,"c",FALSE,FALSE
 "Scaffold_4228_7680","3p","3p","3p","3p","3p","3p",52180.4,NA,"-",102342,100921,68,1353,"yes","-","hsa-miR-25-3p","-","-","uauugcacucgucccggccugc","aggucgugacuugggcaauaug","aggucgugacuugggcaauauguccuaaaugauguaaaguaaucuguuacccauauugcacucgucccggccugc","Scaffold_4228:5598320..5598395:-","....(((.((((((((.((((((.(((..(.((((((((...(((..(((........)))..)))..)))))))).)..))).)))))).)))))).)).)))........","auaagaguaacucuugaaggucgugacuugggcaauauguccuaaaugauguaaaguaaucuguuacccauauugcacucgucccggccugcaagggcuuccucaaaagcaa",FALSE,71,92,18,39,50,59,FALSE,"((((((.(((..(.((((((((...(((..(((........)))..)))..)))))))).)..))).)))))).)",")))))).)..))).)))))).)","((((((.(((..(.((((((((","...(((..(((........)))..)))..))","(........)","","--((((((.(((..(.((((((((...(((..(((........","  |||||| |||  | ||||||||   |||  |||        ",").)))))).)))..).))))))))-..)))..)))--------","--((((((.(((..(.((((((((...(((..(((........
   |||||| |||  | ||||||||   |||  |||        
 ).)))))).)))..).))))))))-..)))..)))--------",NA,"--AGGUCGUGACUUGGGCAAUAUGuccuaaaugauguaaagua","CGUCCGGCCCUGCUCACGUUAUac-ccauugucua--------","--AGGUCGUGACUUGGGCAAUAUGuccuaaaugauguaaagua
   |||||| |||  | ||||||||   |||  |||        
-CGUCCGGCCCUGCUCACGUUAUac-ccauugucua--------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"u",TRUE,TRUE
+CGUCCGGCCCUGCUCACGUUAUac-ccauugucua--------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"c",FALSE,FALSE
 "Scaffold_4228_7682","3p","3p","0.316100823045268","3p","5p","3p",27669.5,NA,"-",54264,43234,0,11030,"yes","-","hsa-miR-25-3p","-","-","uauugcacuagucccggccuau","uaggcaaggaucugggagcaaugu","uaggcaaggaucugggagcaauguuuucguguuugauuaauauugcacuagucccggccuau","Scaffold_4228:5640019..5640081:-",".................((((((((((..((((((..(((.((((..((((((((.(((....)))..)))))))).)))))))..))))))..))))))))))........","auaaguaucacauaacauccuuauucuggauaggcaaggaucugggagcaauguuuucguguuugauuaauauugcacuagucccggccuauaaaggaugggggauuuucaa",FALSE,71,92,31,54,59,64,FALSE,"(((((..(((.((((..((((((((.(((....)))..)))))))).)))))))..))))))",")))))).)))))))..))))))","(((((..(((.((((..(((((((","(.(((....)))..))","(....)","","-(((((..(((.((((..((((((((-.(((...."," |||||  ||| ||||  ||||||||  |||    ","))))))..)))-))))-.))))))))..)))----","-(((((..(((.((((..((((((((-.(((....
  |||||  ||| ||||  ||||||||  |||    
 ))))))..)))-))))-.))))))))..)))----",NA,"-UAGGCAAGGAUCUGGGAGCAAUGUu-uucguguu","UAUCCGGCCCU-GAUC-ACGUUAUaauuagu----","-UAGGCAAGGAUCUGGGAGCAAUGUu-uucguguu
@@ -258,7 +258,7 @@ UAACUUCUUUUUGUUUUGGCUgucuu----",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,
   |||||||||||| |||| || ||          
 ).)))))))))))).))))-)).))----------",NA,"-UACGUAUACUGAAGGUAUaccggaauacguaugc","CCUGCAUAUGACUUACAUA-GGAcu----------","-UACGUAUACUGAAGGUAUaccggaauacguaugc
   |||||||||||| |||| || ||          
-CCUGCAUAUGACUUACAUA-GGAcu----------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,10,TRUE,"a",TRUE,FALSE
+CCUGCAUAUGACUUACAUA-GGAcu----------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,10,TRUE,"c",FALSE,FALSE
 "Scaffold_4228_7761","5p!","5p!","5p!","5p!","/","5p!",2.9,NA,"-",158,158,0,0,"yes","-","aca-miR-10c-3p","-","-","ucaaauucuagucauuaauag","auucagaauagaauuuuugg","ucaaauucuagucauuaauagauuuuucuuaaaaaauaucuauucagaauagaauuuuugg","Scaffold_4228:16553447..16553508:-",".(((...(((((((((((....((((((((.((...(((((((.(((......))).)))))))..)).))))))))...)))))))))))...)))..............","uacuuggugcaaauauucaaucaaauucuagucauuaauagauuuuucuuaaaaaauaucuauucagaauagaauuuuuggaauguuugcaaacagucgucaacaaaucga",FALSE,21,41,62,81,47,54,TRUE,"..((((((((.((...(((((((.(((......))).)))))))..)).))))))))...)","..((((((((.((...(((((",")))..)).))))))))...)","((.(((......))).))))","(......)","","--..((((((((.((...(((((((.(((......","    |||||||| ||   ||||||| |||      ",")...)))))))).))-..))))))).)))------","--..((((((((.((...(((((((.(((......
     |||||||| ||   ||||||| |||      
 )...)))))))).))-..))))))).)))------",NA,"--UCAAAUUCUAGUCAUUAAUAGauuuuucuuaaa","GGUUUUUAAGAUAAG-ACUUAucuauaaa------","--UCAAAUUCUAGUCAUUAAUAGauuuuucuuaaa
@@ -268,7 +268,7 @@ GGUUUUUAAGAUAAG-ACUUAucuauaaa------",FALSE,NA,TRUE,15,FALSE,FALSE,TRUE,TRUE,FALS
      ||||| ||||| ||||||          
 ...)))))))-))))).))))))----------",NA,"-----AAAAAAGAACGUUGCACGUUGUuccacc","AGAUCUUUUU-CUUGCUGCGUgc----------","-----AAAAAAGAACGUUGCACGUUGUuccacc
      ||||| ||||| ||||||          
-AGAUCUUUUU-CUUGCUGCGUgc----------",FALSE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,10,TRUE,"u",TRUE,FALSE
+AGAUCUUUUU-CUUGCUGCGUgc----------",FALSE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,10,TRUE,"a",TRUE,FALSE
 "Scaffold_4307_8284","5p","5p","5p","5p","5p","5p",4.7,NA,"-",4224376,4210790,0,13586,"yes","-","dme-miR-7-5p","-","-","uggaagacuagugauuuuguuguu","caagaaaucacuaucuuccgac","uggaagacuagugauuuuguuguucuguguuagaguaacaagaaaucacuaucuuccgac","Scaffold_4307:5630162..5630222:+",".......(((((.((((.((.((((((.(((((((((((((((((((...))))))))))..))))))))))))))))).)))).)))))(((....)))..........","ugaaauuggcaacuacuuucuggaagacuagugauuuuguuguucuguguuagaguaacaagaaaucacuaucuuccgacagugcuugcugcugaccagcugcaaauguu",FALSE,21,44,59,80,47,51,TRUE,".((((((.(((((((((((((((((((...))))))))))..))))))))))))))))).",".((((((.((((((((((((((((","))..))))))))))))))))).","(((...))))))))","(...)","","---.((((((.(((((((((--((((((((((...","    |||||| |||||||||  ||||||||||   ",".))-))))))-)))))))))..))))))))))---","---.((((((.(((((((((--((((((((((...
     |||||| |||||||||  ||||||||||   
 .))-))))))-)))))))))..))))))))))---",NA,"---UGGAAGACUAGUGAUUU--UGUUGUUcugugu","CAG-CCUUCU-AUCACUAAAGAACaaugagau---","---UGGAAGACUAGUGAUUU--UGUUGUUcugugu
@@ -288,7 +288,7 @@ UCGUCGUAAACCUUGACAAAUAACG-GACcggg------",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TR
     ||| |||||  |||   || ||||     
 .)).)))-)))))..)))...))-))))-----",NA,"---CAGCCAAUCAUAUGCAUGCAUGAGUGCugu","CUGAUCG-UUAGUUGACGAAAGU-CUcg-----","---CAGCCAAUCAUAUGCAUGCAUGAGUGCugu
     ||| |||||  |||   || ||||     
-CUGAUCG-UUAGUUGACGAAAGU-CUcg-----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"u",TRUE,FALSE
+CUGAUCG-UUAGUUGACGAAAGU-CUcg-----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"c",FALSE,FALSE
 "Scaffold_5748_12077","5p","5p","0.625528600044514","5p","3p","5p",4949.3,NA,"-",9699,7480,1,2218,"yes","-","str-miR-7880g-5p","-","-","ugucagauggccuugcaagaccc","uccugcuuggcuaucugaaucuuuuc","ugucagauggccuugcaagacccaggcccaccauggccucaaacuccugcuuggcuaucugaaucuuuuc","Scaffold_5748:7872225..7872295:+","..........(((((((((...((((((((((..(((.((...(((((......))))).....)).)))..))))))))))....)))))).))).((((.....)))).","uagcagagaagcccaggagcugucagauggccuugcaagacccaggcccaccauggccucaaacuccugcuuggcuaucugaaucuuuucugaggcaagucaccguggcuu",FALSE,21,43,65,90,48,55,TRUE,"..((((((((((..(((.((...(((((......))))).....)).)))..))))))))))....))))","..((((((((((..(((.((...",")).)))..))))))))))....))))","(((((......))))).....","(......)","","------..((((((((((..(((.((--...(((((......","        ||||||||||  ||| ||     |||||      ","))))....))))))))))..))).)).....)))))------","------..((((((((((..(((.((--...(((((......
         ||||||||||  ||| ||     |||||      
 ))))....))))))))))..))).)).....)))))------",NA,"------UGUCAGAUGGCCUUGCAAGA--CCCaggcccaccau","CUUUUCUAAGUCUAUCGGUUCGUCCUcaaacuccgg------","------UGUCAGAUGGCCUUGCAAGA--CCCaggcccaccau
@@ -318,7 +318,7 @@ UGUGCCUGCUUUCAG-G-GUGGCUggc-------------",TRUE,NA,FALSE,22,TRUE,FALSE,FALSE,FALS
    |  ||||||  |||||| |||| ||    
 )).)..))))))..)))))).)))).))----",NA,"--UGUUCCAUUUUUCGACGCCAUCuuucaguu","CCCCCGGGUAAGUUGCUGCGUUaggugg----","--UGUUCCAUUUUUCGACGCCAUCuuucaguu
    |  ||||||  |||||| |||| ||    
-CCCCCGGGUAAGUUGCUGCGUUaggugg----",TRUE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+CCCCCGGGUAAGUUGCUGCGUUaggugg----",TRUE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_5748_12380","5p","5p","5p","5p","0.529199711607787","5p",65582.8,NA,"-",128629,114913,0,13716,"yes","-","mdv2-miR-M17-5p","-","-","aguccuucaaggggccgcuagcc","gagcugcccagugaagggcugu","aguccuucaaggggccgcuagccugauuuuagagugcgagcugcccagugaagggcugu","Scaffold_5748:20448653..20448712:+","(((..((((((((((((((((((((((((..((((.(((.((((........)).)).))).))))..)))))))))).)))))).)))))).))...)))...........","ggucuauagucaugcgaaauaguccuucaaggggccgcuagccugauuuuagagugcgagcugcccagugaagggcuguuuucguaaugauucauucaacugucccaacugu",FALSE,21,43,58,79,44,53,TRUE,"(((((((((..((((.(((.((((........)).)).))).))))..)))))))))).","(((((((((..((((.(((.(((",".))).))))..)))))))))).","(........)).))","(........)","","--(((((((((..((((.(((.((-((........","  |||||||||  |||| ||| || ||        ",".))))))))))..)))).))).)).))--------","--(((((((((..((((.(((.((-((........
   |||||||||  |||| ||| || ||        
 .))))))))))..)))).))).)).))--------",NA,"--AGUCCUUCAAGGGGCCGCUAGC-Cugauuuuag","UGUCGGGAAGUGACCCGUCGAGcguga--------","--AGUCCUUCAAGGGGCCGCUAGC-Cugauuuuag
@@ -338,22 +338,22 @@ UGGUAGACUGG---GUGAUU-CAACgguuuuuuaaaa----aaauguu----",FALSE,NA,TRUE,15,FALSE,FAL
    ||||||| ||||||| ||||| |      
 .))))))))).))))))).)))))-)------",NA,"---CAUACACGAUCAGUUUGGUGUugaagugg","AGGGUAUGUGGUAGUCAAUCcaca-c------","---CAUACACGAUCAGUUUGGUGUugaagugg
    ||||||| ||||||| ||||| |      
-AGGGUAUGUGGUAGUCAAUCcaca-c------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,6,FALSE,"c",FALSE,FALSE
+AGGGUAUGUGGUAGUCAAUCcaca-c------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,6,FALSE,"a",TRUE,FALSE
 "Scaffold_5748_13636","3p","3p","3p","3p","/","3p!",5,NA,"-",230,204,0,26,"yes","-","dps-miR-2508","-","-","cagaucucuuauuccagucuuu","acugggcucugagacuagcagu","acugggcucugagacuagcaguuggaaaaugauugagugacugcagaucucuuauuccagucuuu","Scaffold_5748:12497699..12497764:-","...........(((((((...((((((((((((....((((((.((((((...............)))))))).))))....))))))))))))..))))))).........","aaauaacauccgacaacuuugaggaagacugggcucugagacuagcaguuggaaaaugauugagugacugcagaucucuuauuccagucuuuuuauaguugucuuucgcaau",FALSE,71,92,28,49,50,66,FALSE,"((((((....((((((.((((((...............)))))))).))))....))))))))))","))).))))....))))))))))","((((((....((((((.(((((","(...............)))))","(...............)","","----((((((....((((-((.((((((...............","    ||||||    |||| || ||||||               ","))))))))))....)))).))-))))))---------------","----((((((....((((-((.((((((...............
     ||||||    |||| || ||||||               
 ))))))))))....)))).))-))))))---------------",NA,"----ACUGGGCUCUGAGA-CUAGCAGUuggaaaaugauugagu","UUUCUGACCUUAUUCUCUAGA-Cgucag---------------","----ACUGGGCUCUGAGA-CUAGCAGUuggaaaaugauugagu
     ||||||    |||| || ||||||               
-UUUCUGACCUUAUUCUCUAGA-Cgucag---------------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,15,TRUE,"c",FALSE,FALSE
+UUUCUGACCUUAUUCUCUAGA-Cgucag---------------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,15,TRUE,"u",TRUE,TRUE
 "Scaffold_5748_13684","3p!","/","5p!","3p!","0.699754901960784","3p!",44.6,NA,"-",89,79,0,10,"yes","-","-","-","-","ucccaguuccgacaugaauuca","aaucaugucggaauaagggug","aaucaugucggaauaagggugccuucaauccaucccaguuccgacaugaauuca","Scaffold_5748:18795545..18795599:-",".......(((......)))..(((...(((..(..(....((((((((((((..(((((.........)))))..))))))))))))...)..)..)))..)))........","uauuauacucucaaaugagcaagcccacuccguccgucaaucaugucggaauaagggugccuucaauccaucccaguuccgacaugaauucaaauagagaugcuauuaauua",FALSE,71,92,39,59,59,69,FALSE,"..((((((((((((..(((((.........)))))..))))))))))))...).",")))..))))))))))))...).","..((((((((((((..(((((",".........))","(.........)","","---..((((((((((((..(((((.........","     ||||||||||||  |||||         ",".)...))))))))))))..)))))---------","---..((((((((((((..(((((.........
      ||||||||||||  |||||         
 .)...))))))))))))..)))))---------",NA,"---AAUCAUGUCGGAAUAAGGGUGccuucaauc","ACUUAAGUACAGCCUUGACCCUac---------","---AAUCAUGUCGGAAUAAGGGUGccuucaauc
      ||||||||||||  |||||         
-ACUUAAGUACAGCCUUGACCCUac---------",TRUE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,9,TRUE,"u",TRUE,TRUE
+ACUUAAGUACAGCCUUGACCCUac---------",TRUE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,9,TRUE,"a",TRUE,TRUE
 "Scaffold_5748_13714","3p!","3p!","3p!","3p!","/","3p",145.6,NA,"-",277,275,0,2,"yes","-","cin-miR-4140-5p","-","-","ucgucgucgucucuguuccg","acaacagaacgacgacgacgu","acaacagaacgacgacgacgucgcuaucgucgucgucgucucuguuccg","Scaffold_5748:19565629..19565678:-",".((((((......))))))...........((((((..(((((((((((((((((((((((.......)))))))))))).))))))..)))))...))))))........","uuggcggguuguauugccaucuagcguguauuagaagaaauacaacagaacgacgacgacgucgcuaucgucgucgucgucucuguuccguguuccauucugaaugaguau",FALSE,71,90,42,62,61,69,FALSE,"((((((((((((((((((((.......)))))))))))).))))))..)",")))))))))).))))))..)","((((((((((((((((((((.","......))","(.......)","","((--((((((-((((((((((((.......","||  |||||| ||||||||||||       ","-)..)))))).))))))))))))-------","((--((((((-((((((((((((.......
 ||  |||||| ||||||||||||       
 -)..)))))).))))))))))))-------",NA,"AC--AACAGA-ACGACGACGACGUcgcuau","-GCCUUGUCUCUGCUGCUGCUgc-------","AC--AACAGA-ACGACGACGACGUcgcuau
 ||  |||||| ||||||||||||       
--GCCUUGUCUCUGCUGCUGCUgc-------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,7,FALSE,"u",TRUE,FALSE
+-GCCUUGUCUCUGCUGCUGCUgc-------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,7,FALSE,"g",FALSE,FALSE
 "Scaffold_5748_13721","5p!","5p!","5p!","5p!","5p!","5p!",0,NA,"-",53,53,0,0,"yes","-","-","-","-","gauggagaaagagagugacu","ucuuccucucucucucucgc","gauggagaaagagagugacuccaaaguaaacagagucuuccucucucucucucgc","Scaffold_5748:20522807..20522862:-",".....(((((........((((.(((((..(((((.(((((...........)))))...)))))))))).)))).....(((((((.....)))))))..)))))....","cauucaaggccuuuucacgugauggagaaagagagugacuccaaaguaaacagagucuuccucucucucucucgcuuuucuugauaacugccuuaucaaacgcuuuccua",FALSE,21,40,56,75,41,53,TRUE,"((.(((((..(((((.(((((...........)))))...)))))))))).))))","((.(((((..(((((.((((","))...)))))))))).))))","(...........)))","(...........)","","--((.(((((..(((((--.(((((...........","  || |||||  |||||   |||||           ",")))).)))))--)))))...)))))-----------","--((.(((((..(((((--.(((((...........
   || |||||  |||||   |||||           
 )))).)))))--)))))...)))))-----------",NA,"--GAUGGAGAAAGAGAG--UGACUccaaaguaaaca","CGCUCUCUCU--CUCUCCUUCUgag-----------","--GAUGGAGAAAGAGAG--UGACUccaaaguaaaca
@@ -378,7 +378,7 @@ ACUCAUCUUUACCGACUGAGggauu----",TRUE,NA,FALSE,20,TRUE,FALSE,FALSE,FALSE,FALSE,FAL
   ||||||||||||||||||||||    
 ))))))))))))))))))))))))----",NA,"--CAGUAUUGCUUUAACCCUAGAGaaau","UCGUCAUAACGAAAUUGGGAUCuc----","--CAGUAUUGCUUUAACCCUAGAGaaau
   ||||||||||||||||||||||    
-UCGUCAUAACGAAAUUGGGAUCuc----",FALSE,NA,FALSE,22,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"c",FALSE,FALSE
+UCGUCAUAACGAAAUUGGGAUCuc----",FALSE,NA,FALSE,22,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"u",TRUE,FALSE
 "Scaffold_6181_15143","5p","5p","5p","5p","5p","5p",3864.9,NA,"-",7572,6913,0,659,"yes","-","dvi-miR-279-5p","-","-","ugugagugguaccugucaaggcauu","ugcuugaacaguugugacucaaauug","ugugagugguaccugucaaggcauugagaugcuugaacaguugugacucaaauug","Scaffold_6181:4001696..4001751:+","((((((((((((........))))))...(((.(((((.(((.(((((..((.((((..((((((....))))))..)))).))..))))).))).))))).)))....))))))","caccaugccauuggcagcaagaugguaagcaguggugcggaugugagugguaccugucaaggcauugagaugcuugaacaguugugacucaaauuggcaucccuggucaguggug",FALSE,42,66,71,96,65,70,TRUE,"(.(((((..((.((((..((((((....))))))..)))).))..))))).))).","(.(((((..((.((((..((((((.",")))))..)))).))..))))).))).","...)","(....)","","---(.(((((..((.((((..((((((....","   | |||||  || ||||  ||||||    ",".))).)))))..)).))))..))))))----","---(.(((((..((.((((..((((((....
    | |||||  || ||||  ||||||    
 .))).)))))..)).))))..))))))----",NA,"---UGUGAGUGGUACCUGUCAAGGCAUUgag","GUUAAACUCAGUGUUGACAAGUUCGUa----","---UGUGAGUGGUACCUGUCAAGGCAUUgag
@@ -393,7 +393,7 @@ CCUCCGCUCGGGGAUGUCGGC-Ccuu--------",TRUE,NA,TRUE,20,TRUE,TRUE,FALSE,TRUE,FALSE,F
  |||||||||||||||  ||||||| ||||   
 ))))))))))))))))-.))))))).))))---",NA,"-AUCAUUUUUGUGAUUUUUGCAAUU-gugaccu","GUAGUGAAAACACUGA-UACGUUaaacauu---","-AUCAUUUUUGUGAUUUUUGCAAUU-gugaccu
  |||||||||||||||  ||||||| ||||   
-GUAGUGAAAACACUGA-UACGUUaaacauu---",TRUE,NA,TRUE,21,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,3,FALSE,"u",TRUE,FALSE
+GUAGUGAAAACACUGA-UACGUUaaacauu---",TRUE,NA,TRUE,21,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,3,FALSE,"g",FALSE,FALSE
 "Scaffold_6181_17012","5p!","5p!","5p","5p!","5p!","5p",1.5,NA,"-",240,235,0,5,"yes","-","-","-","-","cuucauuucacuuuuagucgga","uccgacuuaaaagugaaaugaag","cuucauuucacuuuuagucggacaauuaauuguccgacuuaaaagugaaaugaag","Scaffold_6181:15086066..15086121:+","....................(((((((((((((((((((((((((....))))))))).)))))))))))))))).....(((((((.(((....)))))))))).......","acuacuaaugaccgacuuaacuucauuucacuuuuagucggacaauuaauuguccgacuuaaaagugaaaugaagauacuguuuuuucugggguacuaaaaagaccauucca",FALSE,21,42,53,75,45,50,TRUE,"(((((((((((((((((((((((((....))))))))).))))))))))))))))","((((((((((((((((((((((",")))))).))))))))))))))))","(((....)))","(....)","","((((((((((((((((-(((((((((....","|||||||||||||||| |||||||||    ",")))))))))))))))).)))))))))----","((((((((((((((((-(((((((((....
 |||||||||||||||| |||||||||    
 )))))))))))))))).)))))))))----",NA,"CUUCAUUUCACUUUUA-GUCGGAcaauuaa","GAAGUAAAGUGAAAAUUCAGCCUguu----","CUUCAUUUCACUUUUA-GUCGGAcaauuaa
@@ -408,12 +408,12 @@ AAACUCAUCUUUACCGACUGAGgaguu----",TRUE,NA,TRUE,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,
   ||||||||||||||||||||||    
 ))))))))))))))))))))))))----",NA,"--CAGUAUUGCUUUAACCCUAGAGauuu","UCGUCAUAACGAAAUUGGGAUCuc----","--CAGUAUUGCUUUAACCCUAGAGauuu
   ||||||||||||||||||||||    
-UCGUCAUAACGAAAUUGGGAUCuc----",FALSE,NA,FALSE,22,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"c",FALSE,FALSE
+UCGUCAUAACGAAAUUGGGAUCuc----",FALSE,NA,FALSE,22,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"u",TRUE,FALSE
 "Scaffold_6181_17450","3p!","3p!","3p!","3p!","/","3p!",1.7,NA,"-",64,64,0,0,"yes","-","mmu-miR-290a-5p","-","-","ucucaaacuguggccaugugaac","ucacaauuuugcacacaguccccuuau","ucacaauuuugcacacaguccccuuauuauccugggucccacuauuguagcccugugaaauaucucaaacuguggccaugugaac","Scaffold_6181:2777133..2777218:-",".......((((((.....((.((((((.....((((.(((.((((..((....))..)))).).))))))......))))))))..))))))..((((.((.....)).))))","uuaauuauucacaauuuugcacacaguccccuuauuauccugggucccacuauuguagcccugugaaauaucucaaacuguggccaugugaacaauguguuauucugagacau",FALSE,71,93,9,35,49,54,FALSE,"(((((.....((.((((((.....((((.(((.((((..((....))..)))).).))))))......))))))))..)))))).","......))))))))..)))))).","(((((.....((.((((((.....(((","(.(((.((((..((....))..)))).).))))))","(....)","","--(((((.....((.((((((-.....((((.((-(.((((..((....","  |||||     || ||||||      |||| || | ||||  ||    ",".))))))---..))-))))))......))))-)).).))))..))----","--(((((.....((.((((((-.....((((.((-(.((((..((....
   |||||     || ||||||      |||| || | ||||  ||    
 .))))))---..))-))))))......))))-)).).))))..))----",NA,"--UCACAAUUUUGCACACAGU-CCCCUUAUuauc-cugggucccacuau","CAAGUGU---ACCG-GUGUCAAACUCUauaa-agugucccgaugu----","--UCACAAUUUUGCACACAGU-CCCCUUAUuauc-cugggucccacuau
   |||||     || ||||||      |||| || | ||||  ||    
-CAAGUGU---ACCG-GUGUCAAACUCUauaa-agugucccgaugu----",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+CAAGUGU---ACCG-GUGUCAAACUCUauaa-agugucccgaugu----",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_6181_17581","5p","/","5p!","5p!","5p!","5p!",116.6,NA,"-",229,226,2,1,"yes","-","hsv1-miR-H6-5p","-","-","uguggaaguaugcuuauuggu","ccaauuaacaaaauccuacacucaguu","uguggaaguaugcuuauugguauugcaaauuauuuaugaaaaaaguauuccugguaccaauuaacaaaauccuacacucaguu","Scaffold_6181:3824541..3824624:-",".......(((..(((((((((((((.....((...(((((((((......(((((.......))))).....)))))))))...)).....))))).))))))))..))).","uauccauucuugaaaacugauguggaaguaugcuuauugguauugcaaauuauuuaugaaaaaaguauuccugguaccaauuaacaaaauccuacacucaguuuuauagac",FALSE,21,41,77,103,55,63,TRUE,"(((((.....((...(((((((((......(((((.......))))).....)))))))))...)).....))))).))))))","(((((.....((...((((((",")))))...)).....))))).))))))","(((......(((((.......))))).....))))","(.......)","","-------(((((.....((...(((((((((......(((((.......","       |||||     ||   |||||||||      |||||       ",")))))).))))).....))...)))))))))-.....)))))-------","-------(((((.....((...(((((((((......(((((.......
        |||||     ||   |||||||||      |||||       
 )))))).))))).....))...)))))))))-.....)))))-------",NA,"-------UGUGGAAGUAUGCUUAUUGGUauugcaaauuauuuaugaaaa","UUGACUCACAUCCUAAAACAAUUAACCaugg-uccuuaugaa-------","-------UGUGGAAGUAUGCUUAUUGGUauugcaaauuauuuaugaaaa
@@ -423,7 +423,7 @@ UUGACUCACAUCCUAAAACAAUUAACCaugg-uccuuaugaa-------",FALSE,NA,TRUE,13,FALSE,FALSE,
  | |||| ||||| |||| || |||||    ||     
 )).)))).))))).))))-))-)))))....))-----",NA,"-A-CUGACUUCUCUUGGUUGUGUagau---gacauacu","CUUGACUUAAGAGUACCA-CG-AUcuaaaaaug-----","-A-CUGACUUCUCUUGGUUGUGUagau---gacauacu
  | |||| ||||| |||| || |||||    ||     
-CUUGACUUAAGAGUACCA-CG-AUcuaaaaaug-----",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,5,FALSE,"u",TRUE,FALSE
+CUUGACUUAAGAGUACCA-CG-AUcuaaaaaug-----",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,5,FALSE,"c",FALSE,FALSE
 "Scaffold_6181_18218","3p!","3p!","3p!","3p!","/","3p!",2608.5,NA,"-",5115,5111,0,4,"yes","-","-","-","-","ugcuucgacgaucgacgacauu","guugucgucgucgucgccgc","guugucgucgucgucgccgcugcugcugcugcuucgacgaucgacgacauu","Scaffold_6181:18214784..18214835:-","..(((((.......((((.((.........((......))...((((((((((((((..((.((....)).))..)))))).))))))))...))))))........)))))","acagcguuucgacgcgggacguucucagcagccuucucgcaguugucgucgucgucgccgcugcugcugcugcuucgacgaucgacgacauuccgcccgacaauauugcguu",FALSE,71,92,42,61,64,69,FALSE,"..((((((((((((((..((.((....)).))..)))))).))))))))..",".))..)))))).))))))))..","..((((((((((((((..((",".((....))","(....)","","..((((((((-((((((..((.((....","  |||||||| ||||||  || ||    ","..)))))))).))))))..)).))----","..((((((((-((((((..((.((....
   |||||||| ||||||  || ||    
 ..)))))))).))))))..)).))----",NA,"GUUGUCGUCG-UCGUCGCCGCugcugcu","UUACAGCAGCUAGCAGCUUCGUcg----","GUUGUCGUCG-UCGUCGCCGCugcugcu
@@ -433,13 +433,13 @@ UUACAGCAGCUAGCAGCUUCGUcg----",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4,
   | ||||    ||||||        ||||        
 )))-))))----))))))........))))--------",NA,"--UCUGCUAUUACCUGCA---AGGCAAUGCUCcaucuu","AGA-ACGA----GGAUGUAAAAUAAGUAUG--------","--UCUGCUAUUACCUGCA---AGGCAAUGCUCcaucuu
   | ||||    ||||||        ||||        
-AGA-ACGA----GGAUGUAAAAUAAGUAUG--------",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"g",FALSE,FALSE
+AGA-ACGA----GGAUGUAAAAUAAGUAUG--------",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"a",TRUE,FALSE
 "Scaffold_6695_18927","3p!","3p!","3p!","3p!","/","/",2046.5,NA,"-",4012,4008,3,1,"yes","-","-","-","-","aguuagcuaguuggaguagcu","ccgcuccaacuagcuggcauu","ccgcuccaacuagcuggcauugagcuaacguggauugcaacaccuuggcuugugcuccaaguuagcuaguuggaguagcu","Scaffold_6695:3332992..3333072:+","...(((((((.(..(((((((((((((((((.(((((((.(((........))).)))))))))))).......))))))))))))..).)))))))..............","gucgcucuuaaccgcuccaacuagcuggcauugagcuaacguggauugcaacaccuuggcuugugcuccaaguuagcuaguuggaguagcuaagagcaaaaauuuccugag",FALSE,71,91,12,32,43,52,FALSE,"(..(((((((((((((((((.(((((((.(((........))).)))))))))))).......))))))))))))..).)","....))))))))))))..).)","(..(((((((((((((((((.","(((((((.(((........))).))))))))))))...","(........)","","--(..((((((((((((-------(((((.(((((((.(((........","  |  ||||||||||||       ||||| ||||||| |||        ",").)..)))))))))))).......)))))-))))))).)))--------","--(..((((((((((((-------(((((.(((((((.(((........
   |  ||||||||||||       ||||| ||||||| |||        
 ).)..)))))))))))).......)))))-))))))).)))--------",NA,"--CCGCUCCAACUAGCU-------GGCAUUgagcuaacguggauugcaa","UCGAUGAGGUUGAUCGAUUGAaccucgug-uucgguuccac--------","--CCGCUCCAACUAGCU-------GGCAUUgagcuaacguggauugcaa
   |  ||||||||||||       ||||| ||||||| |||        
-UCGAUGAGGUUGAUCGAUUGAaccucgug-uucgguuccac--------",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,8,TRUE,"a",TRUE,FALSE
-"Scaffold_6695_20322","0.5","0.488326848249027","0.495222929936306","0.5","0.5","0.497652226598001",1.7,NA,"-",1754,1748,6,0,"yes","-","-","-","-","ugaccgggagcuggccacgag","cuugaccgggagcuggccacg","cuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgag","Scaffold_6695:7386835..7386914:-","....((((.((((.((.((((...((((.((.((((.((((.((.((((...)))).)).)))).)))).)).))))...)))).)).)))).))))..............","ccacgaggaccucuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgaggaccucunnnnnnnnnnnnn",TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mature and star sequences can be found in both strands!",NA,NA,NA,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,"u",TRUE,FALSE
+UCGAUGAGGUUGAUCGAUUGAaccucgug-uucgguuccac--------",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,8,TRUE,"u",TRUE,FALSE
+"Scaffold_6695_20322","0.5","0.488326848249027","0.495222929936306","0.5","0.5","0.497652226598001",1.7,NA,"-",1754,1748,6,0,"yes","-","-","-","-","ugaccgggagcuggccacgag","cuugaccgggagcuggccacg","cuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgag","Scaffold_6695:7386835..7386914:-","....((((.((((.((.((((...((((.((.((((.((((.((.((((...)))).)).)))).)))).)).))))...)))).)).)))).))))..............","ccacgaggaccucuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgaggaccucuugaccgggagcuggccacgaggaccucunnnnnnnnnnnnn",TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mature and star sequences can be found in both strands!",NA,NA,NA,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,FALSE,FALSE
 "Scaffold_6695_20408","3p!","3p!","3p!","3p!","3p!","3p!",2.4,NA,"-",86,86,0,0,"yes","-","hsa-miR-3686","-","-","uucuguaauuccauagcgauuu","gucgccauggcauuuuaagaaau","gucgccauggcauuuuaagaaaugagauuuuagauauuucuguaauuccauagcgauuu","Scaffold_6695:15282544..15282603:-",".............((((...((((((..((((((((((.((((.(((...(((((((..........)))))))..))).)))).))))))).)))...))))))))))...","aauuuacuuuuauaguuuucaaguuccagguaagucgccauggcauuuuaagaaaugagauuuuagauauuucuguaauuccauagcgauuuagccguugaauuuaacucga",FALSE,71,92,34,56,57,68,FALSE,"(((((.((((.(((...(((((((..........)))))))..))).)))).)))))))","))))..))).)))).)))))))","(((((.((((.(((...((((((","(..........)))","(..........)","","--(((((.((((.(((...(((((((..........","  ||||| |||| |||   |||||||          ","))))))).)))).)))-..)))))))----------","--(((((.((((.(((...(((((((..........
   ||||| |||| |||   |||||||          
 ))))))).)))).)))-..)))))))----------",NA,"--GUCGCCAUGGCAUUUUAAGAAAUgagauuuuaga","UUUAGCGAUACCUUAA-UGUCUUuau----------","--GUCGCCAUGGCAUUUUAAGAAAUgagauuuuaga
@@ -469,12 +469,12 @@ UGAUCGUCAGUUGAUGAAAGUCUcacgucgugagugua----",TRUE,NA,TRUE,14,FALSE,FALSE,FALSE,FA
 |||||| ||   ||||||  ||||||            
 )))))).))-..))))))..))))))------------",NA,"CAAAACUGGAAGGAAUUGCUAACGCUGguccauuuuaa","GUUUUGUCC-GACUUAAUUCUUgcga------------","CAAAACUGGAAGGAAUUGCUAACGCUGguccauuuuaa
 |||||| ||   ||||||  ||||||            
-GUUUUGUCC-GACUUAAUUCUUgcga------------",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,12,TRUE,"u",TRUE,FALSE
+GUUUUGUCC-GACUUAAUUCUUgcga------------",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,12,TRUE,"g",FALSE,FALSE
 "Scaffold_6978_21909","3p!","3p!","3p!","3p!","3p!","3p!",50,NA,"-",90,89,0,1,"yes","-","hsa-miR-3187-3p","-","-","auggccaucauggaccuccucu","aggaguucgaugauguggacauug","aggaguucgaugauguggacauuguucauccgaggucuguucgauggccaucauggaccuccucu","Scaffold_6978:14173027..14173092:+",".....((..((((.((.(((..(((.((((((.((.((((((.(..(((((..((.(....)..))..))))).))))))).)).)))))).)))..))))).))))..)).","auuaauugcuuggagauguaucggaugaggaguucgaugauguggacauuguucauccgaggucuguucgauggccaucauggaccuccucuuccacugcuccccggaugac",FALSE,71,92,28,51,57,62,FALSE,"(((((.((.((((((.(..(((((..((.(....)..))..))))).))))))).)).)))))).","))).))))))).)).)))))).","(((((.((.((((((.(..(((((","..((.(....)..))..))","(....)","","--(((((.((.((((((.(..(((((..((-.(....","  ||||| || |||||| |  |||||  ||  |    ",".)))))).)).))))))-)-.)))))..))..)----","--(((((.((.((((((.(..(((((..((-.(....
   ||||| || |||||| |  |||||  ||  |    
 .)))))).)).))))))-)-.)))))..))..)----",NA,"--AGGAGUUCGAUGAUGUGGACAUUGuuca-uccgag","UCUCCUCCAGGUACUAC-C-GGUAgcuugucug----","--AGGAGUUCGAUGAUGUGGACAUUGuuca-uccgag
   ||||| || |||||| |  |||||  ||  |    
-UCUCCUCCAGGUACUAC-C-GGUAgcuugucug----",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"a",TRUE,FALSE
+UCUCCUCCAGGUACUAC-C-GGUAgcuugucug----",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"u",TRUE,FALSE
 "Scaffold_6978_21940","5p!","5p","5p!","5p!","5p!","5p",357.7,NA,"-",696,692,0,4,"yes","-","mmu-miR-668-5p","-","-","guaaguguauugggggacuugugau","caugcucuuaaugcauuuuaaua","guaaguguauugggggacuugugauuuacaauaacaguuauaaaucaugcucuuaaugcauuuuaaua","Scaffold_6978:20100303..20100371:+","......((((((((........((((((((((((((....((((((((.(((....))).)))))))).)))))))))))))).......))))))))..............","cugcaucuuuuggcugaaucguaaguguauugggggacuugugauuuacaauaacaguuauaaaucaugcucuuaaugcauuuuaauagugucaagaguucuuacccaaaug",FALSE,21,45,66,88,52,57,TRUE,"..((((((((((((((....((((((((.(((....))).)))))))).)))))))))))))).....","..((((((((((((((....(((((","))).)))))))))))))).....","(((.(((....))).)))))","(....)","","---..((((((((((((((....((((((((.(((....","     ||||||||||||||    |||||||| |||    ",".....))))))))))))))---.)))))))).)))----","---..((((((((((((((....((((((((.(((....
      ||||||||||||||    |||||||| |||    
 .....))))))))))))))---.)))))))).)))----",NA,"---GUAAGUGUAUUGGGGGACUUGUGAUuuacaauaaca","AUAAUUUUACGUAAUUCUC---GUACuaaauauug----","---GUAAGUGUAUUGGGGGACUUGUGAUuuacaauaaca
@@ -494,7 +494,7 @@ UUACCGUUCUACA-UCGUUUCGAC----ccu----",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,FALSE,TRUE,T
   ||||||||||| |||| ||||||   |||     
 ).))))))))))).))))-))))))...)))-----",NA,"--CCGUACUUCUUGACAUGUCCAUA---uuggucua","GAGGUAUGAAGAAAUGUA-AGGUauuaaaac-----","--CCGUACUUCUUGACAUGUCCAUA---uuggucua
   ||||||||||| |||| ||||||   |||     
-GAGGUAUGAAGAAAUGUA-AGGUauuaaaac-----",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"u",TRUE,FALSE
+GAGGUAUGAAGAAAUGUA-AGGUauuaaaac-----",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"g",FALSE,FALSE
 "Scaffold_6978_22035","3p","3p","3p","3p","3p","3p",160290.3,NA,"-",314394,301274,165,12955,"yes","-","dme-miR-133-3p","-","-","uugguccccuucaaccagcugu","agcugguugaauucgggccaaa","agcugguugaauucgggccaaauugugucagagacguaggcauuugguccccuucaaccagcugu","Scaffold_6978:24600810..24600875:+",".......(...((.((((((....((((((((((((((...(((((((...(((((.........))))))))))))..))))))))))))))...)))))).))..)..","caucaaagagguacagugcuccgauauagcugguugaauucgggccaaauugugucagagacguaggcauuugguccccuucaaccagcuguaguuggcauuuuaagcaa",FALSE,71,92,28,49,56,66,FALSE,"(((((((((((...(((((((...(((((.........))))))))))))..)))))))))))))",")))))))..)))))))))))))","(((((((((((...(((((((.","..(((((.........)))))","(.........)","","--(((((((((((...(((((((...(((((.........","  |||||||||||   |||||||   |||||         ",")))))))))))))-..)))))))---)))))---------","--(((((((((((...(((((((...(((((.........
   |||||||||||   |||||||   |||||         
 )))))))))))))-..)))))))---)))))---------",NA,"--AGCUGGUUGAAUUCGGGCCAAAuugugucagagacgua","UGUCGACCAACUU-CCCCUGGUU---uacgg---------","--AGCUGGUUGAAUUCGGGCCAAAuugugucagagacgua
@@ -514,7 +514,7 @@ UAAUUCAUGAUUCCGUUGUCCuuac----------",TRUE,NA,TRUE,18,TRUE,TRUE,FALSE,FALSE,TRUE,
     |||||| |||||||||   |||     
 ))).)))))).)))))))))---)))-----",NA,"----UGUGGCAGCCACUGGUGGCCGUguaca","GUGAACGCCGCCGGUGAUCA---gca-----","----UGUGGCAGCCACUGGUGGCCGUguaca
     |||||| |||||||||   |||     
-GUGAACGCCGCCGGUGAUCA---gca-----",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"a",TRUE,FALSE
+GUGAACGCCGCCGGUGAUCA---gca-----",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"g",FALSE,FALSE
 "Scaffold_6978_23030","3p!","3p!","3p!","3p!","3p!","/",4.6,NA,"-",99,99,0,0,"yes","-","xtr-miR-449b-3p","-","-","uagucgcuaacacugguacguu","cuaccaguguuagcgaauuua","cuaccaguguuagcgaauuuauccaguauauagucgcuaacacugguacguu","Scaffold_6978:11087946..11087998:-",".((((...(((....)))..))))...(((...(((((((((((((((((((((((...(((.....)))...))))))))))))))).).)))))))....))).......","gguuauaaugaaauuucaguugauguguccgcauguuucgcuaccaguguuagcgaauuuauccaguauauagucgcuaacacugguacguugaaauaagaaggguuuuguu",FALSE,71,92,41,61,62,68,FALSE,"((((((((((((((((...(((.....)))...))))))))))))))).).)","...))))))))))))))).).)","((((((((((((((((...((","(.....)))","(.....)","","--(-(((((((((((((((...(((.....","  | |||||||||||||||   |||     ",").).)))))))))))))))...)))-----","--(-(((((((((((((((...(((.....
   | |||||||||||||||   |||     
 ).).)))))))))))))))...)))-----",NA,"--C-UACCAGUGUUAGCGAAUUUAuccagu","UUGCAUGGUCACAAUCGCUGAUaua-----","--C-UACCAGUGUUAGCGAAUUUAuccagu
@@ -534,7 +534,7 @@ UGGUUAUUAUUGUUUUGUAC-----",FALSE,NA,TRUE,13,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,5,FA
     ||||||| ||||||| |||         
 )))-))))))).))))))).)))---------",NA,"---AUUCGUUAAUCAGCCU-GUAGGgggaaaa","CAA-AAGCAAUAGGUCGGAACAU---------","---AUUCGUUAAUCAGCCU-GUAGGgggaaaa
     ||||||| ||||||| |||         
-CAA-AAGCAAUAGGUCGGAACAU---------",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,9,TRUE,"u",TRUE,TRUE
+CAA-AAGCAAUAGGUCGGAACAU---------",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,9,TRUE,"c",FALSE,FALSE
 "Scaffold_6978_23105","0.386521344565546","0.421390207018825","0.333140960900303","0.584809440198306","0.610832679186039","5p",45209.6,NA,"-",88668,42801,0,45867,"yes","-","dme-miR-12-5p","-","-","ugaguauuacaucagguacuggu","cagugccuauguaauccucauc","ugaguauuacaucagguacuggugaauauaaaagugaccagugccuauguaauccucauc","Scaffold_6978:20122090..20122150:-","........(((.((((.((.((((.(((((((.((((((((((.(.........).))))))))))))))))).)))).)).)))).)))..((((((.....))))))....","cuugcaugacguccuauggcugaguauuacaucagguacuggugaauauaaaagugaccagugccuauguaauccucauccuuaggucguacuauuucgucuggaaauguaua",FALSE,21,43,59,80,45,55,TRUE,"((((.(((((((.((((((((((.(.........).))))))))))))))))).)))).)","((((.(((((((.((((((((((","))))))))))))))).)))).)",".(.........).))","(.........)","","--((((.(((((((.((((((((((.(.........","  |||| ||||||| |||||||||| |         ",").)))).)))))))-)))))))))).)---------","--((((.(((((((.((((((((((.(.........
   |||| ||||||| |||||||||| |         
 ).)))).)))))))-)))))))))).)---------",NA,"--UGAGUAUUACAUCAGGUACUGGUgaauauaaaag","CUACUCCUAAUGUA-UCCGUGACcagu---------","--UGAGUAUUACAUCAGGUACUGGUgaauauaaaag
@@ -554,7 +554,7 @@ GU-UUAUAGUCGGACC--UAAGAccc-agaggaau---",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,FALSE,FAL
     |||||||| ||  |||| ||||               
 )))))))))))).))-.)))).))))---------------",NA,"----GAGGUAGUAGUUUAUGGUugugaaugagaagaagaaa","UUUUCUUCAUCACCG-UUACCCAcgc---------------","----GAGGUAGUAGUUUAUGGUugugaaugagaagaagaaa
     |||||||| ||  |||| ||||               
-UUUUCUUCAUCACCG-UUACCCAcgc---------------",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,15,TRUE,"a",TRUE,TRUE
+UUUUCUUCAUCACCG-UUACCCAcgc---------------",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,15,TRUE,"u",TRUE,TRUE
 "Scaffold_7780_23709","3p","3p","3p","3p","3p","3p",109692.6,NA,"-",215150,214742,0,408,"yes","-","cel-miR-80-3p","-","-","ugagaucauugugaaagcugauu","cugguuuucucaaugauuugac","cugguuuucucaaugauuugacagaagguuaugaacucugagaucauugugaaagcugauu","Scaffold_7780:815714..815775:+",".((((.((((.....))))......(((((((..(((((((.(((((((((..((((.(........)))))))))))))).)))))))..))))))).....)))).","agcgcagaagaucuucuucuugacagacaaaacugguuuucucaaugauuugacagaagguuaugaacucugagaucauugugaaagcugauuuuguuaaacgguguc",FALSE,71,93,33,54,59,68,FALSE,"..(((((((.(((((((((..((((.(........)))))))))))))).)))))))..))","))))))))))).)))))))..))","..(((((((.(((((((((..(","(((.(........)))","(........)","","--..(((((((.(((((((((..((((.(........","    ||||||| |||||||||  |||| |        ","))..))))))).)))))))))--))))-)--------","--..(((((((.(((((((((..((((.(........
     ||||||| |||||||||  |||| |        
 ))..))))))).)))))))))--))))-)--------",NA,"--CUGGUUUUCUCAAUGAUUUGACagaagguuaugaa","UUAGUCGAAAGUGUUACUAGA--GUcu-c--------","--CUGGUUUUCUCAAUGAUUUGACagaagguuaugaa
@@ -584,12 +584,12 @@ UCUCGUGCCAUACUUCAAGGAUggucuaa-----",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRU
  |||||||||||| ||||||  |||         |||||||      
 .))))))))))))-))))))..))).........)))))))------",NA,"-CACGGCAUACUAUAGACUAUUUCU---------UGUgaaacgaaau","AGUGUUGUAUGAU-UUUGAUCUagguuaugacuuauacuuu------","-CACGGCAUACUAUAGACUAUUUCU---------UGUgaaacgaaau
  |||||||||||| ||||||  |||         |||||||      
-AGUGUUGUAUGAU-UUUGAUCUagguuaugacuuauacuuu------",TRUE,NA,TRUE,18,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,6,FALSE,"u",TRUE,FALSE
+AGUGUUGUAUGAU-UUUGAUCUagguuaugacuuauacuuu------",TRUE,NA,TRUE,18,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,6,FALSE,"a",TRUE,FALSE
 "Scaffold_7780_23949","3p","3p!","3p","3p","/","3p!",1.4,NA,"-",167,159,0,8,"yes","-","-","-","-","acugccacuggacucucauuu","aaugagagaccagugacaguuu","aaugagagaccagugacaguuuccaaagaagaaacugccacuggacucucauuu","Scaffold_7780:9631787..9631841:+","...................((((.....((.((((((((((((((.((((((.(((((((.......))))))).)))))).)))))))))))))).)).......)))).","aagaaaauauaugaugucaguugucuaauguuaauuaaaugagagaccagugacaguuuccaaagaagaaacugccacuggacucucauuuaauuaucagucaauuuaaca",FALSE,71,91,38,59,60,68,FALSE,"((((((((.((((((.(((((((.......))))))).)))))).)))))))))",")))).)))))).)))))))))","((((((((.((((((.((((((","(.......)))","(.......)","","-((((((((.((((((.(((((((......."," |||||||| |||||| |||||||       ","))))))))).)))))).)))))))-------","-((((((((.((((((.(((((((.......
  |||||||| |||||| |||||||       
 ))))))))).)))))).)))))))-------",NA,"-AAUGAGAGACCAGUGACAGUUUccaaagaa","UUUACUCUCAGGUCACCGUCAaag-------","-AAUGAGAGACCAGUGACAGUUUccaaagaa
  |||||||| |||||| |||||||       
-UUUACUCUCAGGUCACCGUCAaag-------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,7,FALSE,"a",TRUE,FALSE
+UUUACUCUCAGGUCACCGUCAaag-------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,7,FALSE,"u",TRUE,FALSE
 "Scaffold_7780_24589","3p!","3p!","3p!","3p!","3p!","3p!",2.5,NA,"-",1219,1057,1,161,"yes","-","rno-miR-6324","-","-","ucaguaggucuuucaauuuuuuguu","guuuggaggauccaugagucauc","guuuggaggauccaugagucaucuuaagggaucauuguuauuuuaucaucuugggagcauacucaguaggucuuucaauuuuuuguu","Scaffold_7780:18025112..18025199:+","..(((((((((.((((((((..(((((..(((((((((((.(........).))).))))))))....)))))...)))))))))))))))))......................","auuaaaagguuuggaggauccaugagucaucuuaagggaucauuguuauuuuaucaucuugggagcauacucaguaggucuuucaauuuuuuguuauuucucuuuuguuuuaauu",FALSE,71,95,9,31,42,51,FALSE,"(((.((((((((..(((((..(((((((((((.(........).))).))))))))....)))))...)))))))))))))))))..",")))...)))))))))))))))))..","(((.((((((((..(((((..((","(((((((((.(........).))).))))))))....))","(........)","","--------(((.((((((((-..(((((--..((((((((-(((.(........","        ||| ||||||||   |||||    |||||||| ||| |        ","..)))))))))-))))))))...)))))....)))))))).))).)--------","--------(((.((((((((-..(((((--..((((((((-(((.(........
         ||| ||||||||   |||||    |||||||| ||| |        
 ..)))))))))-))))))))...)))))....)))))))).))).)--------",NA,"--------GUUUGGAGGAUC-CAUGAGU--CAUCuuaagg-gaucauuguuauu","UUGUUUUUUAA-CUUUCUGGAUGACUcauacgaggguucuacuauu--------","--------GUUUGGAGGAUC-CAUGAGU--CAUCuuaagg-gaucauuguuauu
@@ -609,7 +609,7 @@ UUAUAAUUUCGGGUAUGAUCAGU--------",FALSE,NA,TRUE,21,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
   |  | ||||||||   ||||||| |     
 )))..)-))))))))---))))))).)-----",NA,"--UGACACCUUGGCUUGUGCUCCaaguuugau","ACAGCG-GGAAUCGG---UGAGGUUga-----","--UGACACCUUGGCUUGUGCUCCaaguuugau
   |  | ||||||||   ||||||| |     
-ACAGCG-GGAAUCGG---UGAGGUUga-----",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,5,FALSE,"u",TRUE,FALSE
+ACAGCG-GGAAUCGG---UGAGGUUga-----",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,5,FALSE,"a",TRUE,FALSE
 "Scaffold_7780_25664","5p!","5p!","5p!","5p!","/","5p!",4.7,NA,"-",293,293,0,0,"yes","-","hsa-miR-5087","-","-","ugguuuguguaugcuauugugugu","accucaauagcauacauugaccaca","ugguuuguguaugcuauuguguguuugcaauugggaguuauauuucagcgucgacacaagcaccucaauagcauacauugaccaca","Scaffold_7780:27566344..27566430:+",".........(((.....(((((.(((((((((((((.(((((((...((((..(((.......))).))))..)))))))..))))))))))))).)))))....)))...","cuuaucuacaguaaccuugguuuguguaugcuauuguguguuugcaauugggaguuauauuucagcgucgacacaagcaccucaauagcauacauugaccacaugacuagc",FALSE,18,41,79,103,56,64,TRUE,"(((((.(((((((((((((.(((((((...((((..(((.......))).))))..)))))))..))))))))))))).)))))..","(((((.(((((((((((((.((((","))..))))))))))))).)))))..","(((...((((..(((.......))).))))..)))))","(.......)","","--(((((.(((((((((((((-.(((((((...((((..(((.......","  ||||| |||||||||||||  |||||||   ||||  |||       ","..))))).)))))))))))))..)))))))-..))))-.)))-------","--(((((.(((((((((((((-.(((((((...((((..(((.......
   ||||| |||||||||||||  |||||||   ||||  |||       
 ..))))).)))))))))))))..)))))))-..))))-.)))-------",NA,"--UGGUUUGUGUAUGCUAUUG-UGUGUuugcaauugggaguuauauuuc","ACACCAGUUACAUACGAUAACUCCAcgaac-acagcu-gcga-------","--UGGUUUGUGUAUGCUAUUG-UGUGUuugcaauugggaguuauauuuc
@@ -619,7 +619,7 @@ ACACCAGUUACAUACGAUAACUCCAcgaac-acagcu-gcga-------",FALSE,NA,TRUE,22,TRUE,TRUE,TR
 ||||||||| |||||  ||||||    ||        
 ))))))))).)))))..))))))....))--------",NA,"UCAUCAAAG-UGGUUUGGAUAUG-uugucugaugcuu","AGUAGUUUCGACCGACACUAUacuuaaag--------","UCAUCAAAG-UGGUUUGGAUAUG-uugucugaugcuu
 ||||||||| |||||  ||||||    ||        
-AGUAGUUUCGACCGACACUAUacuuaaag--------",TRUE,NA,TRUE,18,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8,TRUE,"u",TRUE,FALSE
+AGUAGUUUCGACCGACACUAUacuuaaag--------",TRUE,NA,TRUE,18,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8,TRUE,"a",TRUE,FALSE
 "Scaffold_7780_25810","3p","3p","3p","3p","5p","3p",327838.8,NA,"-",643033,635629,1829,5575,"yes","-","cel-miR-2-3p","-","-","uaucacagccagcuuugaugagu","cucgcaaaguggcuguaauau","cucgcaaaguggcuguaauauguuggcugaugcuguuuuuucauaucacagccagcuuugaugagu","Scaffold_7780:7855051..7855117:-",".....((.....((((((((..((((.((((((((((((((((.(((((.((((....))))......))))).))))))).))))).)))).))))..))))))))...)).","aaaucgguuuugguagucauggucugucucgcaaaguggcuguaauauguuggcugaugcuguuuuuucauaucacagccagcuuugaugaguuggaaggugauugcaauccu",FALSE,71,93,28,48,54,59,FALSE,"((((((((((((((((.(((((.((((....))))......))))).))))))).))))).)))).","))).))))))).))))).)))).","((((((((((((((((.((((","(.((((....))))......))","(....)","","-((((-(((((-(((((((.(((((-----.((((...."," |||| ||||| ||||||| |||||      ||||    ",".)))).))))).))))))).)))))......))))----","-((((-(((((-(((((((.(((((-----.((((....
  |||| ||||| ||||||| |||||      ||||    
 .)))).))))).))))))).)))))......))))----",NA,"-CUCG-CAAAG-UGGCUGUAAUAUg-----uuggcugau","UGAGUAGUUUCGACCGACACUAUacuuuuuugucg----","-CUCG-CAAAG-UGGCUGUAAUAUg-----uuggcugau
@@ -634,7 +634,7 @@ UCGAGCAGUUCUACCGACACUAUac-------------",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,TRUE
  ||||||| |||||| || |||| |||| ||       
 .))))))).))))))-)).))))-))))-))-------",NA,"GCAUCAAACCUGGUUUGUCAUAgcauagaucccaagcu","AGUAGUUUCGACCGA-CACUAUc-uguc-ag-------","GCAUCAAACCUGGUUUGUCAUAgcauagaucccaagcu
  ||||||| |||||| || |||| |||| ||       
-AGUAGUUUCGACCGA-CACUAUc-uguc-ag-------",TRUE,NA,TRUE,18,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,7,FALSE,"u",TRUE,FALSE
+AGUAGUUUCGACCGA-CACUAUc-uguc-ag-------",TRUE,NA,TRUE,18,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,7,FALSE,"a",TRUE,FALSE
 "Scaffold_7780_25818","0.447218213945287","3p","3p","3p","5p","0.305023786357361",1693634.5,NA,"-",3321982,2755207,0,566775,"yes","-","tca-miR-71-3p","-","-","ucucacuaucuugucuuucau","ugaaagacauggguagugagau","ugaaagacauggguagugagauguggcagaguggaaagccaucucacuaucuugucuuucau","Scaffold_7780:7855754..7855816:-",".....((...(((...((((((((.((..(((((((((.(((((((((((..((((..........))))))))))))))))))))))))..))))))))))..))).)).","aaccagaaagcaacagcuucauuuucgugugaaagacauggguagugagauguggcagaguggaaagccaucucacuaucuugucuuucaugugaagugaggaauugguca",FALSE,71,91,30,51,56,67,FALSE,"(((((((((.(((((((((((..((((..........)))))))))))))))))))))))).",")))))))))))))))))))).","(((((((((.(((((((((((.",".((((..........))))","(..........)","","-(((((((((.(((((((((((..((((.........."," ||||||||| |||||||||||  ||||          ",".)))))))))-)))))))))))--))))----------","-(((((((((.(((((((((((..((((..........
  ||||||||| |||||||||||  ||||          
 .)))))))))-)))))))))))--))))----------",NA,"-UGAAAGACAUGGGUAGUGAGAUguggcagaguggaaa","UACUUUCUGU-UCUAUCACUCU--accg----------","-UGAAAGACAUGGGUAGUGAGAUguggcagaguggaaa
@@ -654,7 +654,7 @@ UGAUCGUCAGUUGAUGAAAGUCUcacgucgugagugua----",TRUE,NA,TRUE,14,FALSE,FALSE,FALSE,FA
   |||||| |||||||||| |||||       |||    
 .))))))).))))))))))-)))))-......)))----",NA,"--GUGGCGACGAUGACCAUCUUGUUaagaaauguugcac","UUCGCCGCCGUUAUUGGUA-AACaa-auuagucaa----","--GUGGCGACGAUGACCAUCUUGUUaagaaauguugcac
   |||||| |||||||||| |||||       |||    
-UUCGCCGCCGUUAUUGGUA-AACaa-auuagucaa----",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"c",FALSE,FALSE
+UUCGCCGCCGUUAUUGGUA-AACaa-auuagucaa----",TRUE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,4,FALSE,"u",TRUE,FALSE
 "Scaffold_9089_31395","3p!","3p!","3p!","3p!","3p!","3p!",965.5,NA,"-",1895,1890,0,5,"yes","-","-","-","-","uuuagaucgauuggcugauauggcu","ucauauuggccacugcaggu","ucauauuggccacugcagguuuuggaacaucuuuagaucgauuggcugauauggcu","Scaffold_9089:6654489..6654545:+","..............((.(((((((((((.....)))))(((((((..((((.....(((((.((.....))..)))))...))))..)))))))......)))))).))......","aagaauuguuugugucaaggauuccuaaacagauuagggucauauuggccacugcagguuuuggaacaucuuuagaucgauuggcugauauggcugauaaaauccucgaaguauu",FALSE,71,95,40,59,64,70,FALSE,"((((((..((((.....(((((.((.....))..)))))...))))..))))))).",")..)))))...))))..))))))).","((((((..((((.....(((","((.((.....)","(.....)","","--((((((..((((.....(((((-.((.....","  ||||||  ||||     |||||  ||     ",".)))))))..))))--...)))))..))-----","--((((((..((((.....(((((-.((.....
   ||||||  ||||     |||||  ||     
 .)))))))..))))--...)))))..))-----",NA,"--UCAUAUUGGCCACUGCAGGUuu-uggaacau","UCGGUAUAGUCGGU--UAGCUAGAUUUc-----","--UCAUAUUGGCCACUGCAGGUuu-uggaacau
@@ -669,7 +669,7 @@ UCAGUCAUGAUGUUAAUGUUUGUUa--------",FALSE,NA,TRUE,15,FALSE,FALSE,TRUE,TRUE,TRUE,T
  ||||||   ||  ||||  ||    
 .))))))...))..))))..))----",NA,"CCGUUGU-ACACACCAGUUCUCaucu","CGCAACGAAUUGAAGUCACUAg----","CCGUUGU-ACACACCAGUUCUCaucu
  ||||||   ||  ||||  ||    
-CGCAACGAAUUGAAGUCACUAg----",TRUE,NA,TRUE,13,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,4,FALSE,"a",TRUE,FALSE
+CGCAACGAAUUGAAGUCACUAg----",TRUE,NA,TRUE,13,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_9089_31732","5p!","5p!","5p!","5p!","/","/",280.4,NA,"-",542,541,0,1,"yes","-","gga-miR-1466","-","-","acgcucagucuggcgucaguu","aaugaggccagauugauugua","acgcucagucuggcgucaguucaguccuuggccggucggaaugaggccagauugauugua","Scaffold_9089:15439301..15439361:+","...(((....(((..((((((..(((((((((((.(((.(((.(.((......)).).)))))).))))))))))..)..))))))..)))..)))...............","uucucuacagcagguguuacacgcucagucuggcgucaguucaguccuuggccggucggaaugaggccagauugauuguaugugaugacugacggacaauauaagcuuuuu",FALSE,21,41,60,80,47,54,TRUE,"(..(((((((((((.(((.(((.(.((......)).).)))))).))))))))))..)..","(..(((((((((((.(((.((","))))).))))))))))..)..","(.(.((......)).).)","(......)","","(..(--((((((((((.(((.(((.(.((......","|  |  |||||||||| ||| ||| | ||      ","-..)..)))))))))).)))-))).).))------","(..(--((((((((((.(((.(((.(.((......
 |  |  |||||||||| ||| ||| | ||      
 -..)..)))))))))).)))-))).).))------",NA,"ACGC--UCAGUCUGGCGUCAGUUcaguccuuggcc","-AUGUUAGUUAGACCGGAGU-AAggcugg------","ACGC--UCAGUCUGGCGUCAGUUcaguccuuggcc
@@ -709,12 +709,12 @@ UA-CGGACUCUGGGAAUGGACAcu-----------",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,FALSE,TRUE,T
    |||||||| |||||||||  ||||| |       
 )).)))))))).)))))))))--)))))-)-------",NA,"--ACGUGCUGCAUCAGGUGCUUGUGACUacaauugaa","GGCGCGCGAUGAAGUCCAUGG--ACUga-g-------","--ACGUGCUGCAUCAGGUGCUUGUGACUacaauugaa
    |||||||| |||||||||  ||||| |       
-GGCGCGCGAUGAAGUCCAUGG--ACUga-g-------",TRUE,NA,TRUE,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,7,FALSE,"u",TRUE,FALSE
+GGCGCGCGAUGAAGUCCAUGG--ACUga-g-------",TRUE,NA,TRUE,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,7,FALSE,"g",FALSE,FALSE
 "Scaffold_9089_32331","0.483618601326397","5p","0.62866218554128","0.329652739211395","0.697389820566828","0.592609011756778",26907.9,NA,"-",52770,20902,0,31868,"yes","-","dme-miR-2495-3p","-","-","cggcaccuguuggaguacaguu","auuguacuucaucaggugcucugg","auuguacuucaucaggugcucuggugaacaacaaacccggcaccuguuggaguacaguu","Scaffold_9089:34464616..34464675:+","((.((.....)).))....((((((....(((.(((((((((((.((((((((..(((.........))).)))))))).))))))))))).)))..)))))).....","gucggauuaaccagcaaaacgcaucacuaguucauuguacuucaucaggugcucuggugaacaacaaacccggcaccuguuggaguacaguugacaagaugugauuac",FALSE,71,92,34,57,58,68,FALSE,"(((((((((((.((((((((..(((.........))).)))))))).))))))))))).",".)))))))).))))))))))).","(((((((((((.((((((((..((","(.........)))","(.........)","","-(((((((((((.((((((((..(((........."," ||||||||||| ||||||||  |||         ",".))))))))))).))))))))-.)))---------","-(((((((((((.((((((((..(((.........
  ||||||||||| ||||||||  |||         
 .))))))))))).))))))))-.)))---------",NA,"-AUUGUACUUCAUCAGGUGCUCUGGugaacaacaa","UUGACAUGAGGUUGUCCACGG-Ccca---------","-AUUGUACUUCAUCAGGUGCUCUGGugaacaacaa
  ||||||||||| ||||||||  |||         
-UUGACAUGAGGUUGUCCACGG-Ccca---------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,9,TRUE,"c",FALSE,FALSE
+UUGACAUGAGGUUGUCCACGG-Ccca---------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,9,TRUE,"u",TRUE,TRUE
 "Scaffold_9089_32367","3p","3p","3p","3p","3p!","3p",432248.4,NA,"-",847829,847662,130,37,"yes","-","dme-miR-317-3p","-","-","ugaacacagccggugguaucu","gagugccacucugaguucuc","gagugccacucugaguucucacgugaaaguaaauaagggugugaacacagccggugguaucu","Scaffold_9089:37477471..37477533:+","..............((((.(((...(((.(((((((((((((.((((.(((.(............).))).)))).)))..))))))).))).)))...))).))))..","aacaacccuuugagugcuuucgggacaccgagugccacucugaguucucacgugaaaguaaauaagggugugaacacagccggugguaucucaguggcacgauaguagg",FALSE,71,91,30,49,53,66,FALSE,"(((((((((((((.((((.(((.(............).))).)))).)))..))))))).))",".)))).)))..))))))).))","(((((((((((((.((((.(","((.(............).)))","(............)","","(((-(((((((--(((.((((.(((.(............","||| |||||||  ||| |||| ||| |            ","-)).)))))))..))).)))).))).)------------","(((-(((((((--(((.((((.(((.(............
 ||| |||||||  ||| |||| ||| |            
 -)).)))))))..))).)))).))).)------------",NA,"GAG-UGCCACU--CUGAGUUCUCacgugaaaguaaauaa","-UCUAUGGUGGCCGACACAAGUguggg------------","GAG-UGCCACU--CUGAGUUCUCacgugaaaguaaauaa
@@ -729,7 +729,7 @@ UUGAGUUAUUGUAAACUAAAAaauuag-------",TRUE,NA,TRUE,21,TRUE,TRUE,FALSE,TRUE,TRUE,TR
  | |||||||| ||||| ||||||  |            
 )).)))))))).))))).))))))..)------------",NA,"-C-GUACCAGA-AAUGCCUUUACAcuugugacguaugaa","GGGUAUGGUCUGUUACGUAAAUgucua------------","-C-GUACCAGA-AAUGCCUUUACAcuugugacguaugaa
  | |||||||| ||||| ||||||  |            
-GGGUAUGGUCUGUUACGUAAAUgucua------------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,12,TRUE,"u",TRUE,FALSE
+GGGUAUGGUCUGUUACGUAAAUgucua------------",TRUE,NA,TRUE,19,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,12,TRUE,"g",FALSE,FALSE
 "Scaffold_9089_32374","5p","5p","5p","5p","5p","5p",1595737.5,NA,"-",3129962,3129182,0,780,"yes","-","cel-miR-34-5p","-","-","uggcagugugguuagcugguugu","agccacuuaccacucugcccua","uggcagugugguuagcugguuguguguaaccgaccacagccacuuaccacucugcccua","Scaffold_9089:37493427..37493486:+",".....(((.(((((.((((..(((((.(((((.((.((((((((.((.....)))))))))))).))))).)))))..)))).))))).)))..................","acuuuuuuuuggucguuuuuuggcagugugguuagcugguuguguguaaccgaccacagccacuuaccacucugcccuaaaaagaucacaaauuuucaucuuuaacuuua",FALSE,21,43,58,79,47,53,TRUE,".(((((.(((((.((.((((((((.((.....)))))))))))).))))).)))))..)",".(((((.(((((.((.(((((((","))))))).))))).)))))..)","(.((.....)))))","(.....)","","--.(((((.(((((.((.((((((((.((.....","   ||||| ||||| || |||||||| ||     ",")..))))).))))).))-))))))))-))-----","--.(((((.(((((.((.((((((((.((.....
    ||||| ||||| || |||||||| ||     
 )..))))).))))).))-))))))))-))-----",NA,"--UGGCAGUGUGGUUAGCUGGUUGUguguaaccg","AUCCCGUCUCACCAUUC-ACCGAcac-ca-----","--UGGCAGUGUGGUUAGCUGGUUGUguguaaccg
@@ -744,12 +744,12 @@ UGGGUCUUAGA--GCACCGGAACUgcugucauaa----",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,TRUE
   |||||||||||  || |||||||   
 .))))))))))))..)).)))))))---",NA,"--AGAGAAAAUGGUGUG-GGGCAacggu","CCUCUCUUUUACCUUGCGCCUguug---","--AGAGAAAAUGGUGUG-GGGCAacggu
   |||||||||||  || |||||||   
-CCUCUCUUUUACCUUGCGCCUguug---",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,3,FALSE,"u",TRUE,FALSE
+CCUCUCUUUUACCUUGCGCCUguug---",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,3,FALSE,"c",FALSE,FALSE
 "Scaffold_9089_33388","3p","3p","3p","3p","3p","3p",2326.6,NA,"-",4556,4437,0,119,"yes","-","cel-miR-43-5p","-","-","uacaucaaugaacgacuaguag","acuaguagaucauugcgugacu","acuaguagaucauugcgugacuaguacaucauugggcgacuaguacaucaaugaacgacuaguag","Scaffold_9089:11025051..11025116:-","...........(.((((((.(((((.((((((.(.((((((.(((((((((.((....))....)))))).))))))))).).)))))).))))).))).)))).......","augcagaauuaguacaucaaugggcaacuaguagaucauugcgugacuaguacaucauugggcgacuaguacaucaaugaacgacuaguaguccaaugacugucaaaacuu",FALSE,70,91,27,48,54,59,FALSE,"((((((.(.((((((.(((((((((.((....))....)))))).))))))))).).)))))).)",").))))))))).).)))))).)","((((((.(.((((((.((((((","(((.((....))....)))))","(....)","","--((((((.(.((((((.(((-((((((---.((....","  |||||| | |||||| ||| ||||||    ||    ",").)))))).).))))))-))).))))))....))----","--((((((.(.((((((.(((-((((((---.((....
   |||||| | |||||| ||| ||||||    ||    
 ).)))))).).))))))-))).))))))....))----",NA,"--ACUAGUAGAUCAUUGCGUG-ACUagu---acaucau","GAUGAUCAGCAAGUAAC-UACAUgaucagcgggu----","--ACUAGUAGAUCAUUGCGUG-ACUagu---acaucau
   |||||| | |||||| ||| ||||||    ||    
-GAUGAUCAGCAAGUAAC-UACAUgaucagcgggu----",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+GAUGAUCAGCAAGUAAC-UACAUgaucagcgggu----",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"g",FALSE,FALSE
 "Scaffold_9089_33443","5p!","5p!","5p!","5p!","5p!","5p!",0,NA,"-",265,265,0,0,"yes","-","-","-","-","uacgauuuccuuguacaaacuga","aguuugggcaagaaacuugaau","uacgauuuccuuguacaaacugaaauguucaagucaguuugggcaagaaacuugaau","Scaffold_9089:11960044..11960101:-",".......((((((((((((((.(((.((.((((..((((((((..(....)..))))))))..)))).)).))))))))))))).))))......................","ucaauuuuucauuuacacguuacgauuuccuuguacaaacugaaauguucaagucaguuugggcaagaaacuugaauguguaaacugaacuuaagaucuuaaacuugcuua",FALSE,21,43,56,77,46,51,TRUE,"(.(((.((.((((..((((((((..(....)..))))))))..)))).)).))))))","(.(((.((.((((..((((((((","))))))..)))).)).))))))","..(....)..))","(....)","","--(.(((.((.((((..((((((((..(....","  | ||| || ||||  ||||||||  |    ",")))-))).)).))))..))))))))..)----","--(.(((.((.((((..((((((((..(....
   | ||| || ||||  ||||||||  |    
 )))-))).)).))))..))))))))..)----",NA,"--UACGAUUUCCUUGUACAAACUGAaauguuc","UAA-GUUCAAAGAACGGGUUUGAcugaa----","--UACGAUUUCCUUGUACAAACUGAaauguuc
@@ -759,7 +759,7 @@ UAA-GUUCAAAGAACGGGUUUGAcugaa----",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
     |||| |||||||| |||| ||||       
 .))))))).)))))))).)))).))))-------",NA,"----UCAGCCUUAAUUGCAAGU-GAGGuaauaac","UUGCAGUCUGAAUUAACAUUCaucucc-------","----UCAGCCUUAAUUGCAAGU-GAGGuaauaac
     |||| |||||||| |||| ||||       
-UUGCAGUCUGAAUUAACAUUCaucucc-------",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,7,FALSE,"c",FALSE,FALSE
+UUGCAGUCUGAAUUAACAUUCaucucc-------",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,7,FALSE,"u",TRUE,FALSE
 "Scaffold_9089_33841","/","/","/","/","/","5p!",4.9,NA,"-",1971,1971,0,0,"yes","-","ebv-miR-BART15","-","-","aucaguggcaucgcuagggu","ccaguguggugaugccaugguguc","aucaguggcaucgcuaggguuggcguuacccaguguggugaugccaugguguc","Scaffold_9089:19146442..19146495:-","........(((((.((((....((((((((((((((((.......))))....))))))))))))..)).)).)))))..........(((((.......)))))...","aaagaaacgagggaugcaaucaguggcaucgcuaggguuggcguuacccaguguggugaugccauggugucaccccucucucccgaaaaaagccacuucugcuuuggu",FALSE,19,38,48,71,38,46,TRUE,"....((((((((((((((((.......))))....))))))))))))..)).)","....((((((((((((((((","))....))))))))))))..)).)",".......))","(.......)","","----....((((((((((((----((((.......","        ||||||||||||    ||||       ",").))--..))))))))))))....))))-------","----....((((((((((((----((((.......
         ||||||||||||    ||||       
 ).))--..))))))))))))....))))-------",NA,"----AUCAGUGGCAUCGCUA----GGGUuggcguu","CUGU--GGUACCGUAGUGGUGUGACCca-------","----AUCAGUGGCAUCGCUA----GGGUuggcguu
@@ -774,12 +774,12 @@ AUCCGAUUGUAAAUUCCCAGUAgg----",TRUE,NA,FALSE,22,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,4
    |||||||  |  || |||||||        
 ...)))))))..)..)).)))))))--------",NA,"--UGAUUGACUUUGAUGACGAUGAcagguggug","GUUCUAACUGUUGUCACGGCUAcug--------","--UGAUUGACUUUGAUGACGAUGAcagguggug
    |||||||  |  || |||||||        
-GUUCUAACUGUUGUCACGGCUAcug--------",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"a",TRUE,FALSE
+GUUCUAACUGUUGUCACGGCUAcug--------",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"g",FALSE,FALSE
 "Scaffold_9156_34093","3p!","3p!","3p!","3p!","/","3p",145.6,NA,"-",277,275,0,2,"yes","-","cin-miR-4140-5p","-","-","ucgucgucgucucuguuccg","acaacagaacgacgacgacgu","acaacagaacgacgacgacgucgcuaucgucgucgucgucucuguuccg","Scaffold_9156:29338..29387:+",".((((((......))))))...........((((((..(((((((((((((((((((((((.......)))))))))))).))))))..)))))...)))))).......","uuggcggguuguauugccaucuagcguguauuagaagaaauacaacagaacgacgacgacgucgcuaucgucgucgucgucucuguuccguguuccauucugaaugagua",FALSE,71,90,42,62,61,69,FALSE,"((((((((((((((((((((.......)))))))))))).))))))..)",")))))))))).))))))..)","((((((((((((((((((((.","......))","(.......)","","((--((((((-((((((((((((.......","||  |||||| ||||||||||||       ","-)..)))))).))))))))))))-------","((--((((((-((((((((((((.......
 ||  |||||| ||||||||||||       
 -)..)))))).))))))))))))-------",NA,"AC--AACAGA-ACGACGACGACGUcgcuau","-GCCUUGUCUCUGCUGCUGCUgc-------","AC--AACAGA-ACGACGACGACGUcgcuau
 ||  |||||| ||||||||||||       
--GCCUUGUCUCUGCUGCUGCUgc-------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,7,FALSE,"u",TRUE,FALSE
+-GCCUUGUCUCUGCUGCUGCUgc-------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,7,FALSE,"g",FALSE,FALSE
 "Scaffold_9288_34304","3p!","/","/","/","/","5p!",1.3,NA,"-",12,11,0,1,"yes","-","-","-","-","uggaaauuucggcaguggua","uaggacuaguggacguuucug","uggaaauuucggcagugguaguaggacuaguggaugauucugcagucauaguaggacuaguggacguuucug","Scaffold_9288:502..574:+","...(((.(((.(((.(((.(..(((((.((.(((((..((.((.((((.(..((....))..))))).)).))..))).)).)).)))))..)))).))).))).))).","ugcagugguaguaggacuaguggaaauuucggcagugguaguaggacuaguggaugauucugcagucauaguaggacuaguggacguuucugcaguguuaguaugacua",FALSE,21,40,72,92,54,59,TRUE,"..(((((.((.(((((..((.((.((((.(..((....))..))))).)).))..))).)).)).)))))..","..(((((.((.(((((..((","))..))).)).)).)))))..",".((.((((.(..((....))..))))).)).","(....)","","..(((((.((.((-(((..((.((.((((.(..((....","  ||||| || || |||  || || |||| |  ||    ","..))))).)).)).)))..)).)).))))-)..))----","..(((((.((.((-(((..((.((.((((.(..((....
   ||||| || || |||  || || |||| |  ||    
 ..))))).)).)).)))..)).)).))))-)..))----",NA,"UGGAAAUUUCGGC-AGUGGUAguaggacuaguggaugau","GUCUUUGCAGGUGAUCAGGAUgauacuga-cgucu----","UGGAAAUUUCGGC-AGUGGUAguaggacuaguggaugau
@@ -794,12 +794,12 @@ UUAUUCAAGUAGUGGUUGUAGAAGUGAgaguuga----",TRUE,NA,TRUE,17,TRUE,TRUE,TRUE,FALSE,TRU
   || ||||| |||| |||||| |||       |||||| |||        
 )))).))))).)))).))))))-))).......)))))).)))--------",NA,"--AGACACUUGAACUAGCUAGCAuug-------agcuaacguggaucauga","AGUCGGUGAAGUUGAACGAUUg-aaccucguguucgguuccac--------","--AGACACUUGAACUAGCUAGCAuug-------agcuaacguggaucauga
   || ||||| |||| |||||| |||       |||||| |||        
-AGUCGGUGAAGUUGAACGAUUg-aaccucguguucgguuccac--------",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"u",TRUE,FALSE
+AGUCGGUGAAGUUGAACGAUUg-aaccucguguucgguuccac--------",FALSE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,8,TRUE,"a",TRUE,FALSE
 "Scaffold_9338_36076","3p!","3p!","3p!","3p!","/","3p!",4.5,NA,"-",438,438,0,0,"yes","-","oan-miR-1406-5p","-","-","uuuuaggucacugccaaagcuugc","cuguuuagggaauauuuagaauc","cuguuuagggaauauuuagaaucccauuugaaugauuuuaggucacugccaaagcuugc","Scaffold_9338:2500359..2500418:-",".(((........)))...((((((((((((((((((.((((.((.(..((((((((((..........))))))))))...).)).))))..).)))))).)))))))))))..","ucugaucaccaacaguuaccaagauuccugacacucuguuuagggaauauuuagaaucccauuugaaugauuuuaggucacugccaaagcuugcaguguugaggaaucuuggcu",FALSE,71,94,36,58,58,69,FALSE,"(.((((.((.(..((((((((((..........))))))))))...).)).))))..).","))))))))...).)).))))..).","(.((((.((.(..((((((((((","..........))","(..........)","","-(-.((((.((.(-..((((((((((.........."," |  |||| || |   ||||||||||          ",".)..)))).)).)...))))))))))----------","-(-.((((.((.(-..((((((((((..........
  |  |||| || |   ||||||||||          
 .)..)))).)).)...))))))))))----------",NA,"-C-UGUUUAGGGA-AUAUUUAGAAUCccauuugaau","CGUUCGAAACCGUCACUGGAUUUUag----------","-C-UGUUUAGGGA-AUAUUUAGAAUCccauuugaau
  |  |||| || |   ||||||||||          
-CGUUCGAAACCGUCACUGGAUUUUag----------",FALSE,NA,TRUE,16,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,10,TRUE,"u",TRUE,FALSE
+CGUUCGAAACCGUCACUGGAUUUUag----------",FALSE,NA,TRUE,16,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,10,TRUE,"c",FALSE,FALSE
 "Scaffold_9338_36422","3p","3p","3p","3p","5p","3p",11370.3,NA,"-",22294,21519,0,775,"yes","-","hsa-miR-210-3p","-","-","uugugcgugugacagcagcuau","agcugcugaacucugcacaag","agcugcugaacucugcacaagaauuguguaggaagucuugugcgugugacagcagcuau","Scaffold_9338:4392290..4392349:-","..................(((((..((..((((((((((((.((.(.((((((((.((........))))))))))).))..))))))))))))..)).)))))........","aaguauaucaauaaguuaauggucauuugcaguagcugcugaacucugcacaagaauuguguaggaagucuugugcgugugacagcagcuauugugaacaccaucuuucaac",FALSE,71,92,34,54,58,67,FALSE,"((((((((.((.(.((((((((.((........))))))))))).))..))))))))))","))))))).))..))))))))))","((((((((.((.(.(((((((","(.((........))))","(........)","","--((((((((-.((.(.((((((((.((........","  ||||||||  || | |||||||| ||        ","))))))))))..)).)-))))))))-))--------","--((((((((-.((.(.((((((((.((........
   ||||||||  || | |||||||| ||        
 ))))))))))..)).)-))))))))-))--------",NA,"--AGCUGCUG-AACUCUGCACAAGaauuguguagga","UAUCGACGACAGUGUG-CGUGUUcu-ga--------","--AGCUGCUG-AACUCUGCACAAGaauuguguagga
@@ -814,12 +814,12 @@ GAAAAGAUAAAAUCAUUUUAACaa--------------",FALSE,NA,FALSE,22,TRUE,FALSE,TRUE,TRUE,F
   |  ||||||||||||||       || |||||   
 ).)..)))))))))))))).......))-)))))---",NA,"--GUAUUUAUACAGUUCAC-GAGAGGGAaucauccug","CCCGCAAAUGUGUCAAGUGAAAAGUacu-aguag---","--GUAUUUAUACAGUUCAC-GAGAGGGAaucauccug
   |  ||||||||||||||       || |||||   
-CCCGCAAAUGUGUCAAGUGAAAAGUacu-aguag---",FALSE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,3,FALSE,"u",TRUE,FALSE
+CCCGCAAAUGUGUCAAGUGAAAAGUacu-aguag---",FALSE,NA,TRUE,16,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,3,FALSE,"c",FALSE,FALSE
 "Scaffold_9389_38517","3p","3p","3p","3p!","3p!","3p!",3528,NA,"-",6915,6891,2,22,"yes","-","cte-miR-2720-5p","-","-","uuggguaaugcgauguuggaac","uaccaacaaagcauuaauuugccaacc","uaccaacaaagcauuaauuugccaaccaaaauuucuacuuugguuggguaaugcgauguuggaac","Scaffold_9389:17399097..17399162:+",".....................((((((((((((((..((((((.....(((((((((........))))))))).))))))..))))))..........))))))))...","aauagaccagacaccaugcaauauuauuaccaacaaagcauuaauuugccaaccaaaauuucuacuuugguuggguaaugcgauguuggaacauuuaauuaaugauacua",FALSE,71,92,28,54,57,66,FALSE,"((((((((..((((((.....(((((((((........))))))))).))))))..))))))...",")))).))))))..))))))...","((((((((..((((((.....((((((","(((........)))))","(........)","","((---((((((..((((((.....(((((((((........","||   ||||||  ||||||     |||||||||        ","--...))))))..))))))----.)))))))))--------","((---((((((..((((((.....(((((((((........
 ||   ||||||  ||||||     |||||||||        
 --...))))))..))))))----.)))))))))--------",NA,"UA---CCAACAAAGCAUUAAUUUGCCAACCaaaauuucuac","--CAAGGUUGUAGCGUAAU----GGGUUgguuu--------","UA---CCAACAAAGCAUUAAUUUGCCAACCaaaauuucuac
 ||   ||||||  ||||||     |||||||||        
---CAAGGUUGUAGCGUAAU----GGGUUgguuu--------",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8,TRUE,"u",TRUE,FALSE
+--CAAGGUUGUAGCGUAAU----GGGUUgguuu--------",TRUE,NA,TRUE,16,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8,TRUE,"c",FALSE,FALSE
 "Scaffold_9389_38526","5p!","5p!","5p!","5p!","/","5p!",5.1,NA,"-",2563,2559,4,0,"yes","-","gga-miR-1466","-","-","acgcucagucuggcaucaguu","cugaugccaaacugauggau","acgcucagucuggcaucaguucaguucaugaucuugaucaagaauaaacugaugccaaacugauggau","Scaffold_9389:18135162..18135230:+","(((((...((.....)).)))))....((.(((((.(((((((((((..((((.((((....)))).)))).))))))))))).)))))))...(((((.....)))))..","acgccacugccauaagcgggcguuacacgcucagucuggcaucaguucaguucaugaucuugaucaagaauaaacugaugccaaacugauggauuaauggaugacauuaca",FALSE,27,47,75,94,58,63,TRUE,".((.(((((.(((((((((((..((((.((((....)))).)))).))))))))))).)))))))...",".((.(((((.(((((((((((","))))))))).)))))))...","..((((.((((....)))).)))).))","(....)","","--.((.(((((.(((((((((((..((((.((((....","   || ||||| |||||||||||  |||| ||||    ","...))-))))).)))))))))))-.)))).))))----","--.((.(((((.(((((((((((..((((.((((....
    || ||||| |||||||||||  |||| ||||    
 ...))-))))).)))))))))))-.)))).))))----",NA,"--ACGCUCAGUCUGGCAUCAGUUcaguucaugaucuug","UAGGU-AGUCAAACCGUAGUCaa-auaagaacua----","--ACGCUCAGUCUGGCAUCAGUUcaguucaugaucuug
@@ -834,12 +834,12 @@ CUUACCGUUUUGUCG----UUACCuguucuuucaa----",FALSE,NA,TRUE,12,FALSE,FALSE,TRUE,FALSE
 ||||||||||| |||||||||||   |||    
 ))))))))))).)))))))))))...)))----",NA,"UUACACGUUACGUCUUUGCAUGu---acaaacg","GAUGUGCGAUGAAGAAACGUACacuuugu----","UUACACGUUACGUCUUUGCAUGu---acaaacg
 ||||||||||| |||||||||||   |||    
-GAUGUGCGAUGAAGAAACGUACacuuugu----",FALSE,NA,TRUE,21,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,4,FALSE,"c",FALSE,FALSE
+GAUGUGCGAUGAAGAAACGUACacuuugu----",FALSE,NA,TRUE,21,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,4,FALSE,"g",FALSE,FALSE
 "Scaffold_9389_39378","3p","3p","3p","3p","5p","3p",83597.7,NA,"-",163966,159919,7,4040,"yes","-","mmu-miR-124-3p","-","-","uaaggcacgcggugaaugcca","cguguucacuguuugccuugaug","cguguucacuguuugccuugauguuaacuguuaaacguucauaaggcacgcggugaaugcca","Scaffold_9389:13814437..13814499:-",".....(((.......((.((((((......(((((((((((.((((((((((((........))))))...)))))).)))))))))))..)))))).)).......))).","auagaguuuuuuauuacccacucucacuucguguucacuguuugccuugauguuaacuguuaaacguucauaaggcacgcggugaaugccaaggguguguuggauuuagca",FALSE,71,91,30,52,54,63,FALSE,".(((((((((((.((((((((((((........))))))...)))))).)))))))))))..",".)))))).)))))))))))..",".(((((((((((.((((((((((","((........))))))..","(........)","","-.(((((((((((.((((((---((((((........","  ||||||||||| ||||||   ||||||        ","..))))))))))).))))))...))))))--------","-.(((((((((((.((((((---((((((........
   ||||||||||| ||||||   ||||||        
 ..))))))))))).))))))...))))))--------",NA,"-CGUGUUCACUGUUUGCCUU---GAUGuuaacuguua","ACCGUAAGUGGCGCACGGAAUacuugcaa--------","-CGUGUUCACUGUUUGCCUU---GAUGuuaacuguua
   ||||||||||| ||||||   ||||||        
-ACCGUAAGUGGCGCACGGAAUacuugcaa--------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8,TRUE,"u",TRUE,FALSE
+ACCGUAAGUGGCGCACGGAAUacuugcaa--------",TRUE,NA,TRUE,17,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8,TRUE,"a",TRUE,FALSE
 "Scaffold_9389_39595","5p","5p","5p","5p","3p!","5p",1752.5,NA,"-",3430,3063,0,367,"yes","-","hsa-miR-219a-5p","-","-","ugauuguccaaacgcaauucuug","agaacuguguguggacaucaau","ugauuguccaaacgcaauucuuguacaaaauauaccaagaacuguguguggacaucaau","Scaffold_9389:25996534..25996593:-","...(((((((((((((.(..((((.(((((.(((((.((((((............)))))).))))).)))))))))..).)))))))..........)))))).........","aagcgaucgauuucaggcccugauuguccaaacgcaauucuuguacaaaauauaccaagaacuguguguggacaucaaugguugaaauaagaaugcgacgaucgaaauaaaaa",FALSE,21,43,58,79,43,56,TRUE,"((((.(((((.(((((.((((((............)))))).))))).)))))))))..","((((.(((((.(((((.((((((",")))).))))).)))))))))..","............))","(............)","","--((((.(((((.(((((.((((((............","  |||| ||||| ||||| ||||||            ","..))))-))))).))))).))))))------------","--((((.(((((.(((((.((((((............
   |||| ||||| ||||| ||||||            
 ..))))-))))).))))).))))))------------",NA,"--UGAUUGUCCAAACGCAAUUCUUGuacaaaauauac","UAACUA-CAGGUGUGUGUCAAGAac------------","--UGAUUGUCCAAACGCAAUUCUUGuacaaaauauac
@@ -854,12 +854,12 @@ ACGU--AGAUGG---AACAGUUCACUUCcaucaggaacggag----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,
 | |||     ||||||| ||||| ||||     
 ).)))---..))))))).)))))-))))-----",NA,"UAACUGAUCAAUUGACUCUGCUUGUUAucaauU","GGUGA---AAUAACUGGUACGAA-GAUG-----","UAACUGAUCAAUUGACUCUGCUUGUUAucaauU
 | |||     ||||||| ||||| ||||     
-GGUGA---AAUAACUGGUACGAA-GAUG-----",TRUE,NA,TRUE,20,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,5,FALSE,"u",TRUE,FALSE
+GGUGA---AAUAACUGGUACGAA-GAUG-----",TRUE,NA,TRUE,20,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,5,FALSE,"g",FALSE,FALSE
 "Scaffold_9405_42684","/","/","/","/","3p!","/",5.1,NA,"-",349,344,5,0,"yes","-","gsa-miR-9390-3p","-","-","ucgaaacgucugggugagaaacc","uuuccacauaaugcgugucaug","uuuccacauaaugcgugucaugugcuaaauuggcacuugugugccaucugcacaucgaaacgucugggugagaaacc","Scaffold_9405:1097835..1097912:-",".......(((((..(((((((((...(.((((.((((((((.....((((((....))))))...)))))).)).)))).)..))).))))))((((....))))..))))).","ugagguuccuuuuugguuuccacauaaugcgugucaugugcuaaauuggcacuugugugccaucugcacaucgaaacgucugggugagaaacccuuccaagggagauagaggu",FALSE,71,93,17,38,52,57,FALSE,"(((((((...(.((((.((((((((.....((((((....))))))...)))))).)).)))).)..))).))))))",").)).)))).)..))).))))))","(((((((...(.((((.(((((","(((.....((((((....))))))...)))))","(....)","","--((((-(((...(.((((.((-((((((.....((((((....","  |||| |||   | |||| || ||||||     ||||||    ",")))))).)))-..).)))).)).))))))--...))))))----","--((((-(((...(.((((.((-((((((.....((((((....
   |||| |||   | |||| || ||||||     ||||||    
 )))))).)))-..).)))).)).))))))--...))))))----",NA,"--UUUC-CACAUAAUGCGUGUC-AUGugcuaaauuggcacuugu","CCAAAGAGUG-GGUCUGCAAAGCUacacg--ucuaccgug----","--UUUC-CACAUAAUGCGUGUC-AUGugcuaaauuggcacuugu
   |||| |||   | |||| || ||||||     ||||||    
-CCAAAGAGUG-GGUCUGCAAAGCUacacg--ucuaccgug----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"u",TRUE,FALSE
+CCAAAGAGUG-GGUCUGCAAAGCUacacg--ucuaccgug----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,4,FALSE,"c",FALSE,FALSE
 "Scaffold_9405_43905","5p!","5p!","5p!","5p!","/","5p!",5,NA,"-",35,34,1,0,"yes","-","sko-miR-2011","-","-","uccaaggucucgacccaugacauug","gugcagguguuguaauccucuguauc","uccaaggucucgacccaugacauugacagcuugcccacccuggauggcugccagugcagguguuguaauccucuguauc","Scaffold_9405:8604676..8604755:-","....(((..(((((.((.(((.(((((...((((((.((.(((((.(((((...((.....))..))))).))))))))).))))....))).)).))).)).)))))..)))..","gcaugcuaucagccacaggguccaaggucucgacccaugacauugacagcuugcccacccuggauggcugccagugcagguguuguaauccucuguaucaugggguugccagcuu",FALSE,21,45,74,99,56,62,TRUE,"(.(((((...((((((.((.(((((.(((((...((.....))..))))).))))))))).))))....))).)).)))","(.(((((...((((((.((.(((((","))))))).))))....))).)).)))",".(((((...((.....))..))))).))","(.....)","","--(.((-(((-...((((-((.((.(((((.(((((...((.....","  | || |||    |||| || || ||||| |||||   ||     ","))).)).)))....)))).))-))-))))).)))))-..))-----","--(.((-(((-...((((-((.((.(((((.(((((...((.....
   | || |||    |||| || || ||||| |||||   ||     
 ))).)).)))....)))).))-))-))))).)))))-..))-----",NA,"--UCCA-AGG-UCUCGAC-CCAUGACAUUGacagcuugcccacccu","CUAUGUCUCCUAAUGUUGUGG-AC-GUGaccgucgg-uagg-----","--UCCA-AGG-UCUCGAC-CCAUGACAUUGacagcuugcccacccu
@@ -884,12 +884,12 @@ GUC-CCCUUUUCGGUAUGCG-AAUac--agcgug------",TRUE,NA,TRUE,19,TRUE,TRUE,TRUE,TRUE,FA
       |||| ||| |||||| ||| |||     
 )))))))))).))).))))))-)))-)))-----",NA,"------GUCAAUGUGGGACCUGUUCUcuguguug","UCCUUACAGUAACAGCUUGGA-Gag-gac-----","------GUCAAUGUGGGACCUGUUCUcuguguug
       |||| ||| |||||| ||| |||     
-UCCUUACAGUAACAGCUUGGA-Gag-gac-----",FALSE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,5,FALSE,"g",FALSE,FALSE
+UCCUUACAGUAACAGCUUGGA-Gag-gac-----",FALSE,NA,TRUE,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,5,FALSE,"u",TRUE,FALSE
 "Scaffold_9406_45944","3p!","3p!","3p!","3p!","/","3p!",2.8,NA,"-",156,156,0,0,"yes","-","hsa-miR-711","-","-","uggacccaggaaguauuugua","cgcauauccccuauuuccgua","cgcauauccccuauuuccguauggcucggcaugaacauacaguggacccaggaaguauuugua","Scaffold_9406:2974087..2974150:-",".............((((((((.(((.((((.((((..(((...((((((((..((.....)).)))))...)))...)))..)))).))))....))))))))))).....","aaaguugauaacauuuuguggaguguuacgcauauccccuauuuccguauggcucggcaugaacauacaguggacccaggaaguauuuguauacccacccacaaaaaaagc",FALSE,71,91,29,49,55,61,FALSE,"((.((((..(((...((((((((..((.....)).)))))...)))...)))..)))).))))",".)))...)))..)))).))))","((.((((..(((...((((((","((..((.....)).)))))..","(.....)","","--((.((((..(((...(((---(((((..((.....","  || ||||  |||   |||   |||||  ||     ",")))).))))..)))...)))...)))))-.))-----","--((.((((..(((...(((---(((((..((.....
   || ||||  |||   |||   |||||  ||     
 )))).))))..)))...)))...)))))-.))-----",NA,"--CGCAUAUCCCCUAUUUCC---GUAuggcucggcau","AUGUUUAUGAAGGACCCAGGUgacauac-aag-----","--CGCAUAUCCCCUAUUUCC---GUAuggcucggcau
   || ||||  |||   |||   |||||  ||     
-AUGUUUAUGAAGGACCCAGGUgacauac-aag-----",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"u",TRUE,FALSE
+AUGUUUAUGAAGGACCCAGGUgacauac-aag-----",FALSE,NA,TRUE,14,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,5,FALSE,"a",TRUE,FALSE
 "Scaffold_9406_45968","3p","3p","3p","3p","3p!","3p",30103.2,NA,"-",59038,57692,0,1346,"yes","-","dme-miR-958-3p","-","-","ugagauucaacuccuccaacugau","caguggagaagugguuucuuc","caguggagaagugguuucuucacuuaguaaacaaaagugagauucaacuccuccaacugau","Scaffold_9406:7337148..7337209:-","...............((((.(((.(((((.(((((((((((.(((.(..(((.(((((.........))))))))..).))).)))).)))))))..))))).)))...)))).","aauaacuuaugaacuaguagugucuccugagaucaguggagaagugguuucuucacuuaguaaacaaaagugagauucaacuccuccaacugaucaccgggaaacaacaugcuu",FALSE,71,94,34,54,58,68,FALSE,"((((((((.(((.(..(((.(((((.........))))))))..).))).)))).))))))",")))))..).))).)))).))))))","((((((((.(((.(..(((.(","((((.........)))","(.........)","","--((((-((((.(((.(..(((.(((((.........","  |||| |||| ||| |  ||| |||||         ",")))))).)))).))).)..)))-)))))---------","--((((-((((.(((.(..(((.(((((.........
   |||| |||| ||| |  ||| |||||         
 )))))).)))).))).)..)))-)))))---------",NA,"--CAGU-GGAGAAGUGGUUUCUUCacuuaguaaacaa","UAGUCAACCUCCUCAACUUAGA-GUgaa---------","--CAGU-GGAGAAGUGGUUUCUUCacuuaguaaacaa
@@ -904,7 +904,7 @@ AAGGUCU--AUUGACAAGAUUAAggguuaccggguuuacug----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,T
   ||||||||||   |||||| | ||||                
 ).))))))))))...)))))).)-))))----------------",NA,"--AGUUGGAAGG--AAGAUCUUGACAuugaaaaaaguugcuaaa","ACUCGACCUUCUCAAUCUAGACC-guaa----------------","--AGUUGGAAGG--AAGAUCUUGACAuugaaaaaaguugcuaaa
   ||||||||||   |||||| | ||||                
-ACUCGACCUUCUCAAUCUAGACC-guaa----------------",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,16,TRUE,"c",FALSE,FALSE
+ACUCGACCUUCUCAAUCUAGACC-guaa----------------",TRUE,NA,TRUE,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,16,TRUE,"a",TRUE,TRUE
 "Scaffold_9406_46327","5p!","/","5p!","/","5p!","/",1.3,NA,"-",35,35,0,0,"yes","-","-","-","-","ucucgaucagccggugacgacuucg","acauccucuuccgguugacucaccucu","ucucgaucagccggugacgacuucgggcucaaugcccauuacauccucuuccgguugacucaccucu","Scaffold_9406:24827207..24827274:-","........................((((((((((.((.((....((((.....))))......)).))..)))))))).))...........(((((((((...))))))).)).","gucuucucccacccgucuuuucucgaucagccggugacgacuucgggcucaaugcccauuacauccucuuccgguugacucaccucuucuucggggaccucggugagguccucca",FALSE,21,45,61,87,48,54,TRUE,"....((((((((((.((.((....((((.....))))......)).))..)))))))).))......","....((((((((((.((.((....(","...)).))..)))))))).))......","(((.....))))...","(.....)","","--....((-((((((((-.((.((--....((((.....","      || ||||||||  || ||      ||||     ","......)).))))))))..)).))......))))-----","--....((-((((((((-.((.((--....((((.....
       || ||||||||  || ||      ||||     
 ......)).))))))))..)).))......))))-----",NA,"--UCUCGA-UCAGCCGG-UGACGA--CUUCGggcucaau","UCUCCACUCAGUUGGCCUUCUCCUACAuuacccg-----","--UCUCGA-UCAGCCGG-UGACGA--CUUCGggcucaau
@@ -919,4 +919,4 @@ AAUUCCAUAAAUGGUUUGGGUAGGGAAAU----",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,FALSE,TR
    ||||||||| |||||||   ||||      || |||       
 )..))))))))).)))))))...))))......)).)))-------",NA,"--AUGCUCUAACCAGCUAGCAUUgagc---uaacguggaucaugac","UCGAUGAGGUUGAUCGAUUGAgucucguguucgguuccu-------","--AUGCUCUAACCAGCUAGCAUUgagc---uaacguggaucaugac
    ||||||||| |||||||   ||||      || |||       
-UCGAUGAGGUUGAUCGAUUGAgucucguguucgguuccu-------",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,7,FALSE,"a",TRUE,FALSE
+UCGAUGAGGUUGAUCGAUUGAgucucguguucgguuccu-------",FALSE,NA,TRUE,17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,7,FALSE,"u",TRUE,FALSE
