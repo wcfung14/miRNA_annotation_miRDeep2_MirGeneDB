@@ -73,8 +73,13 @@ check_MirGeneDB_criteria <- function(mirdeep2_res_db_seq_structure) {
   # check for MirGeneDB rule 6: mature RNA usually starts with "A" or "U"
   mirgenedb_rule_6_mature_nt <- ""
   for (i in 1:nrow(mirdeep2_res_db_seq_structure)) {
-    mirgenedb_rule_6_mature_nt[i] <-
-      substr(mirdeep2_res_db_seq_structure$consensus.mature.sequence[i], start = 1, stop = 1)
+    mirgenedb_rule_6_mature_nt[i] <- 
+      if (mirdeep2_res_db_seq_structure$skip_this[i]) {NA}
+      else if (mirdeep2_res_db_seq_structure$mature_first[i]) {
+        stringr::str_sub(mirdeep2_res_db_seq_structure$consensus.mature.sequence[i], start = 1, end = 1)  
+      } else {
+        stringr::str_sub(mirdeep2_res_db_seq_structure$consensus.mature.sequence[i], start = -1, end = -1)  
+    }
   }
   mirgenedb_rule_6_matureStartAorU <- grepl("a|u", x = mirgenedb_rule_6_mature_nt, ignore.case = TRUE)
   summary(mirgenedb_rule_6_matureStartAorU)
